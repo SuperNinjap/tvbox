@@ -80,6 +80,8 @@ CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 
+凤凰香港,http://www.pr666.site:4040/udp/239.255.30.123:8231
+
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
@@ -178,9 +180,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 本地综合,#genre#
 
-江西都市,http://223.82.161.157:8822/hls/20/index.m3u8
-
-江西都市,http://113.195.172.192:808/hls/2/index.m3u8
+江西都市,http://gzly.hkychina.com:6001/udp/239.252.220.238:5140
 
 江西经济生活,http://223.82.161.157:8822/hls/21/index.m3u8
 
@@ -190,13 +190,9 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 江西影视旅游,http://113.195.172.192:808/hls/4/index.m3u8
 
-江西公共农业,http://223.82.161.157:8822/hls/23/index.m3u8
+江西公共农业,http://gzly.hkychina.com:6001/udp/239.252.220.102:5140
 
-江西公共农业,http://113.195.172.192:808/hls/5/index.m3u8
-
-江西少儿,http://223.82.161.157:8822/hls/24/index.m3u8
-
-江西少儿,http://113.195.172.192:808/hls/35/index.m3u8
+江西少儿,http://gzly.hkychina.com:6001/udp/239.252.219.113:5140
 
 江西新闻,http://223.82.161.157:8822/hls/25/index.m3u8
 
@@ -208,7 +204,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
 
-抚州公共,http://223.82.161.157:8822/hls/26/index.m3u8
+
 
 
 
