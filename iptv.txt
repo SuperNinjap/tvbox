@@ -52,38 +52,38 @@ CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 
-世界地理,http://127.0.0.1:35455/tptv/G_SHIJIEDL-CQ.m3u8
+世界地理,http://127.0.0.1:35456/tptv/G_SHIJIEDL-CQ.m3u8
 
-风云剧场,http://127.0.0.1:35455/tptv/G_FENGYUNJC-CQ.m3u8
+风云剧场,http://127.0.0.1:35456/tptv/G_FENGYUNJC-CQ.m3u8
 
-风云足球,http://127.0.0.1:35455/tptv/G_FENGSHANGZQ-CQ.m3u8
+风云足球,http://127.0.0.1:35456/tptv/G_FENGSHANGZQ-CQ.m3u8
 
-风云音乐,http://127.0.0.1:35455/tptv/G_FENGYUNYY-CQ.m3u8
+风云音乐,http://127.0.0.1:35456/tptv/G_FENGYUNYY-CQ.m3u8
 
-兵器科技,http://127.0.0.1:35455/tptv/G_BINGQIKJ-CQ.m3u8
+兵器科技,http://127.0.0.1:35456/tptv/G_BINGQIKJ-CQ.m3u8
 
-央视台球,http://127.0.0.1:35455/tptv/G_TAIQIU-CQ.m3u8
+央视台球,http://127.0.0.1:35456/tptv/G_TAIQIU-CQ.m3u8
 
-高尔夫网球,http://127.0.0.1:35455/tptv/G_CCTV-GOLF-CQ.m3u8
+高尔夫网球,http://127.0.0.1:35456/tptv/G_CCTV-GOLF-CQ.m3u8
 
-女性时尚,http://127.0.0.1:35455/tptv/G_NVXINGSS-CQ.m3u8
+女性时尚,http://127.0.0.1:35456/tptv/G_NVXINGSS-CQ.m3u8
 
-电视指南,http://127.0.0.1:35455/tptv/G_DIANSHIZN-CQ.m3u8
+电视指南,http://127.0.0.1:35456/tptv/G_DIANSHIZN-CQ.m3u8
 
-第一剧场,http://127.0.0.1:35455/tptv/G_DIYIJC-CQ.m3u8
+第一剧场,http://127.0.0.1:35456/tptv/G_DIYIJC-CQ.m3u8
 
-怀旧剧场,http://127.0.0.1:35455/tptv/G_HUAIJIUJC-CQ.m3u8
+怀旧剧场,http://127.0.0.1:35456/tptv/G_HUAIJIUJC-CQ.m3u8
 
-央视文化精品,http://127.0.0.1:35455/tptv/G_CCTV-WENHUA-CQ.m3u8
+央视文化精品,http://127.0.0.1:35456/tptv/G_CCTV-WENHUA-CQ.m3u8
 
 
 卫视综合,#genre#
 
-凤凰卫视资讯台,http://127.0.0.1:35455/tptv/HD-10000k-1080P-fhzixun5s.m3u8
+凤凰卫视资讯台,http://127.0.0.1:35456/tptv/HD-10000k-1080P-fhzixun5s.m3u8
 
-凤凰卫视中文台,http://127.0.0.1:35455/tptv/HD-10000k-1080P-fhchinese5s.m3u8
+凤凰卫视中文台,http://127.0.0.1:35456/tptv/HD-10000k-1080P-fhchinese5s.m3u8
 
-凤凰卫视香港台,http://127.0.0.1:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
+凤凰卫视香港台,http://127.0.0.1:35456/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
 
 北京卫视,http://[2409:8087:1a0a:df::4010]:80/wh7f454c46tw3521118935_826740184/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 
