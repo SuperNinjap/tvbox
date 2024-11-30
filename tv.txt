@@ -52,38 +52,10 @@ CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 
-世界地理,http://127.0.0.1:35455/tptv/G_SHIJIEDL-CQ.m3u8
-
-风云剧场,http://127.0.0.1:35455/tptv/G_FENGYUNJC-CQ.m3u8
-
-风云足球,http://127.0.0.1:35455/tptv/G_FENGSHANGZQ-CQ.m3u8
-
-风云音乐,http://127.0.0.1:35455/tptv/G_FENGYUNYY-CQ.m3u8
-
-兵器科技,http://127.0.0.1:35455/tptv/G_BINGQIKJ-CQ.m3u8
-
-央视台球,http://127.0.0.1:35455/tptv/G_TAIQIU-CQ.m3u8
-
-高尔夫网球,http://127.0.0.1:35455/tptv/G_CCTV-GOLF-CQ.m3u8
-
-女性时尚,http://127.0.0.1:35455/tptv/G_NVXINGSS-CQ.m3u8
-
-电视指南,http://127.0.0.1:35455/tptv/G_DIANSHIZN-CQ.m3u8
-
-第一剧场,http://127.0.0.1:35455/tptv/G_DIYIJC-CQ.m3u8
-
-怀旧剧场,http://127.0.0.1:35455/tptv/G_HUAIJIUJC-CQ.m3u8
-
-央视文化精品,http://127.0.0.1:35455/tptv/G_CCTV-WENHUA-CQ.m3u8
 
 
 卫视综合,#genre#
 
-凤凰卫视资讯台,http://127.0.0.1:35455/tptv/HD-10000k-1080P-fhzixun5s.m3u8
-
-凤凰卫视中文台,http://127.0.0.1:35455/tptv/HD-10000k-1080P-fhchinese5s.m3u8
-
-凤凰卫视香港台,http://127.0.0.1:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
 
 北京卫视,http://[2409:8087:1a0a:df::4010]:80/wh7f454c46tw3521118935_826740184/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 
@@ -570,55 +542,4 @@ TRACEU频道,http://litv.zapi.us.kg/?id=4gtv-4gtv082
 MEZZOl频道,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 Ginx_TV频道,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 
-
-测试综合,#genre#
-
-
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-
-红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-澳门莲花 电影,https://cdn4.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-
-MOVIE BOX,https://cdn4.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
-
-NHK World Premium 日本,https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
-Cartoon Network 动漫,https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-
-Discovery Asia,https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-
-Zoom少儿,https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
-
-History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
-
-爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-4K Travel,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-
-FASHION 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-FASHION 4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-
-CLARITY,https://d3thiix3tzn48u.cloudfront.net/playlist.m3u8
-
-LOUPE,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-
-TAIWAN PLUS,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
-NHK WORLD JAPAN,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
-Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-
-HBO 2, http://212.102.60.231/HBO_2/index.m3u8
-
-HBO FAMILY, http://212.102.60.231/HBO_FAMILY/index.m3u8
-
-NBA TV, http://212.102.60.231/NBA_TV/index.m3u8
-
-Lifetime, http://212.102.60.231/LIFETIME/index.m3u8
-
-nick jr., http://212.102.60.231/NICK_JR/index.m3u8
 
