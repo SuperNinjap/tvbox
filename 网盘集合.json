@@ -55,7 +55,20 @@
     "share_pwd":"yf61",
     "share_type":"115"
   },
-      {
+  
+  {    "share_index": "115",
+      "share_id":"swhzlx33h75",
+      "share_pwd":"6666",
+      "share_name":"島國|岛国_无ma_蓝光镜像原盘_ISO_19.47T",
+    "share_type":"115"
+  },
+  
+{   "share_index":"115",
+    "share_id": "swz93883nhj",
+    "share_pwd":"sa53",
+    "share_name":"豆瓣|TOP250电影_1.67TB",        "share_type":"115"},
+
+  {
     "share_index": "阿里",
     "share_name": "电影频道合集3300部[16.33TB]",
     "share_id": "BU6xRzDTJhL"
@@ -107,6 +120,21 @@
     "share_index": "阿里",
     "share_name": "xiaaluo",
     "share_id": "sg8CdGUwmUr"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "经典剧集",
+    "share_id": "047991d5955e"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "经典港剧合集1",
+    "share_id": "ecdf7d6ffaaa"
+  },
+  {
+    "share_index": "夸克",
+    "share_name": "经典港剧合集2",
+    "share_id": "187062318ebc"
   },
   {
     "share_index": "夸克",
