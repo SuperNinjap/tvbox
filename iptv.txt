@@ -44,6 +44,8 @@ CCTV-17农业农村,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2178989547_-
 
 咪咕.4K,http://[2409:8087:5e08:25::4]:6610/000000001000/3000000010000005180/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=FifastbLive&Contentid=3000000010000005180&IASHttpSessionId=OTT14302520240727111855000499
 
+CCTV-16_4K,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=YanG-1989
+
 
 
 卫视综合,#genre#
@@ -293,69 +295,64 @@ iHOT 爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000
 
 iHOT 爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-
 AKTV,#genre#
 
-
-翡翠台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台4K,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/4k/AKTV.m3u8
-翡翠综合台(北美),https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-17/AKTV.m3u8
-翡翠剧集台(北美),https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-18/AKTV.m3u8
-明珠剧集台(北美),https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-2/AKTV.m3u8
-i-Fun 動漫台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/ifun/AKTV.m3u8
-Now星影台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/now/AKTV.m3u8
-Now爆谷台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/now-1/AKTV.m3u8
-PopC,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/popc/AKTV.m3u8
-無線新聞台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),https://aktv.mytvsuper.com.mp/AKTV/live/aktv/hk-1/AKTV.m3u8
-28 AI 智慧賽馬,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/28ai/AKTV.m3u8
-Channel 5 HD,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-viutv 99,https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/viutv696/AKTV.m3u8
-无线新闻台(北美),https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/null-1/AKTV.m3u8
-東森新聞,https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/null/AKTV.m3u8
-Animax(HK),https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-DW,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/nhk/AKTV.m3u8
-Nick Jr,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-Thrill,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-亞洲新聞台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/null-2/AKTV.m3u8
-ROCK Action,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亞洲台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-10/AKTV.m3u8
-千禧經典台(HK),https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),https://aktv.mytvsuper.com.mp/AKTV/live/aktv/hk/AKTV.m3u8
-寰宇新聞台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-9/AKTV.m3u8
-日本全天新聞,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-13/AKTV.m3u8
-華視,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-6/AKTV.m3u8
-鳳凰中文,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-5/AKTV.m3u8
-黃金翡翠台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-21/AKTV.m3u8
-龍華日韓台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-23/AKTV.m3u8
-AXN,https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/axn/AKTV.m3u8
-ZooMoo,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-Love Nature HD,https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 
 
 HKDVB,#genre#
@@ -390,365 +387,149 @@ Now Sports 642,https://live.hkdvb.com/hls/live/642.m3u8?token=660938530794730&ed
 
 台湾代理,#genre#
 
-民視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv002
-民視第一台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv003
-民視新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv13
-民視台灣台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv001
-民視影劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv09
-民視旅遊台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv07
-民視綜藝台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv004
-中視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv040
-中視新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv074
-中視經典台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv080
-中視菁采台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv064
-中天新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv009
-中天亞洲台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv109
-華視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv041
-華視新聞,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv052
-靖天綜合台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv046
-靖天國際台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv063
-靖天戲劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv058
-靖天日本台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv047
-靖天映畫台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv055
-靖天卡通台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv044
-靖天育樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv062
-靖天資訊台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv065
-靖天電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv061
-靖天歡樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv054
-龍華偶像台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn12
-龍華卡通台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn01
-龍華戲劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn18
-龍華日韓台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn11
-龍華經典台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn21
-龍華電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn03
-靖洋戲劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv045
-靖洋卡通 Nice Bingo,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv057
-寰宇新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn14
-寰宇新聞台灣台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn15
-寰宇財經台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn23
-TVBS,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv073
-TVBS 新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv072
-TVBS 綜藝台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/284
-TVBS 歡樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv068
-TVBS 精采台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv067
-TVBS 台劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/285
-八大精彩台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv034
-八大綜藝台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv039
-三立綜合台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/169
-三立 iNEWS,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/229
-台視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv066
-台視新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv051
-台視財經台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv056
-博斯運動一台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn07
-博斯運動二台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn08
-博斯無限台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn10
-博斯無限二台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn13
-博斯網球台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn09
-博斯高球台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn05
-博斯高球二台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn06
-博斯魅力台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn04
-ELTA 娛樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv070
-ELTA 生活旅遊,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/237
-ELTV 生活英語,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn20
-東森新聞,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv152
-東森財經新聞,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv153
-非凡新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv010
-非凡商業台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv048
-鏡電視新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv075
-CNBC Asia 財經台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/235
-亞洲旅遊台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn17
-GINX Esports TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv053
-TechStorm,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/181
-時尚運動 X,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/277
-智林體育台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv101
-TraceSports,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv077
-影迷數位紀實台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/212
-影迷數位電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv011
-AMC 電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv017
-CatchPlay 電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv076
-My Cinema Europe HD 我的歐洲電影,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/176
-公視戲劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv042
-采昌影劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv049
-台灣戲劇台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn22
-戲劇免費看 1 台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/270
-戲劇免費看 2 台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/244
-經典電影台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/201
-電影免費看 2 台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/245
-電影原聲台 CMusic,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/218
-花系列 經典劇場,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/279
-CinemaWorld,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/225
-HITS 頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/186
-Rock Action,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/180
-Rock Entertainment,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/275
-金光布袋戲,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/236
-霹靂布袋戲,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/301
-DreamWorks 夢工廠動畫,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/282
-Nickelodeon,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/185
-Nick Jr. 兒童頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/219
-i-Fun 動漫台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv15
-兒童卡通台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/269
-精選動漫台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/204
-經典卡通台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/202
-達文西頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv018
-超人力霸王整套看,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/278
-MOMO 親子台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/231
-LiveABC 互動英語台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/188
-Classica 古典樂,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv059
-Lifetime 娛樂頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/217
-MTV Live HD 音樂頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/213
-Mezzo Live,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv083
-豬哥亮歌廳秀,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv006
-Trace Urban,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv082
-Global Trekker,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/252
-韓國娛樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv016
-LUXE TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/175
-Pet Club TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/182
-TV5MONDE Style,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/178
-車迷 TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/160
-Love Nature,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/139
-Fun 探索娛樂台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/274
-幸福空間居家台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/168
-Arirang TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv079
-Bloomberg TV,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/283
-VOA 美國之音,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv03
-DW 德國之聲,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/226
-SBN 全球財經台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/224
-半島國際新聞台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv10
-第 1 商業台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv104
-History 歷史頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/214
-CI 罪案偵查頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/215
-Smart 知識台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn19
-視納華仁紀實頻道,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv013
-原住民族電視台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/273
-客家電視台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv043
-滾動力 Rollor,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/249
-好消息,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv16
-好消息 2 台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-ftv17
-大愛電視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/209
-大愛電視 2,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/230
-人間衛視,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/210
-國會頻道 1,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv084
-國會頻道 2,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv085
-東森購物一台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/173
-東森購物二台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/174
-東森購物三台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/287
-東森購物四台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/286
-
-
-Stream,#genre#
-  
-華麗(翡翠台),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp2996enud&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt2314bemv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVB Plus,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt8490natz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-無綫新聞台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt9122jpva&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠台.新加坡_粵語(tvbanywhere),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt3211bauh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠台.新加坡_國語(tvbanywhere),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt7503qzze&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-生活台(tvbanywhere),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt3091nkvu&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠台.澳新時區(tvbanywhere),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt6470pauv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠台.英國時區(tvbanywhere),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt3254ntfj&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠台.美加東岸時區(tvbanywhere),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt4051pzqz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠台.美加西岸時區(tvbanywhere),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt9560cucn&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-無綫新聞台(tvbanywhere),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt1405uknr&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠1台(北美),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt5660frnw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠綜合台J1(北美),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt3332ueqv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠劇集台(北美),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt6763hrsj&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-明珠劇集台(北美),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt6327eumz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-翡翠娛樂台(北美),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt2665kurh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-now新聞台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt8986nqca&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-now財經台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt2230pqwh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-ViuTV96,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt4186muzz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-ViuTV99,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt6217vctd&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-港台电视31,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt4933mgdd&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-港台电视32,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt7171acsv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-港台电视33(CCTV 1),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt5737nzsh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-港台电视34(CGTN Doc),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt4284fwjc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-港台电视35(CGTN News),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt1981wnuv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-中央綜合台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn1056ffbh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-中文國際台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn6528fmdp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-中央新聞台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn0572vjzm&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-76國際財經,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt2412njuh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-77開電視,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt9931nkbk&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-78資訊台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt4897mdwt&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-鳳凰衛視資訊台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt2728vpmv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-鳳凰衛視中文台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt8575tvje&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-鳳凰衛視香港台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt3070zmag&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVB娛樂新聞台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt7018fcur&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-viu劇集台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt5067qjce&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-now華劇台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt4873jdem&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-now紫金國際,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt6996pdhj&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVB星河台(粵語),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp4059zszh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVB星河台(國語),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp5916sbes&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVB千禧經典台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp9657qqcg&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro天映頻道(粵語),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp4348qfjn&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro天映頻道(國語),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp4590udjc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-天映頻道(新加坡),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp9490ncqq&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-MytvSuper Free,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt6680trhp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVB亞洲劇台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt6328mzrf&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVB華語劇台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt1207rgkw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-美亞電影台(粵語),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt1920tavb&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-美亞電影台(國語),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt5186zawh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-功夫台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt7266fvfa&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-now爆谷電影台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt1295dupz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-now爆谷星影台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt0355wrkt&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro AEC,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp4243erwe&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro QuanJia,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp5684jpzr&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro Hua Hee Dai,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp7656wpvs&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Asian Food Network,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp5649vgbr&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro iQIYI,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp0888krev&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-八度空間,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp3809jmmk&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-新加坡5頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp9176tsjc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-新加坡8頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp5757zdjc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-新加坡U頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp6766qacp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Hub都會,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp3009bfvr&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Hub娛家,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sgp7825jpak&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Animax,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt0915jqst&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-AXN,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt0619ntme&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-tvN Asia,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt8144zark&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-ROCK Action,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt9430nqne&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-ROCK Entertainment,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt0283edpp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-KIX,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt3730dmcw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-PopC,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=hkt8613vugk&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-now精選體育,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn6963dsdq&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CCTV5體育頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn0612awaf&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CCTV5+體育賽事,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn8595qjez&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CCTV16奧運頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn9373hdqb&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-博斯魅力台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn8858tpea&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-博斯高球1台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn5619dbfz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-博斯高球2台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn5423hegp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-博斯運動1台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn3732baje&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-博斯運動2台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn8884cjae&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-博斯網球台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn4758nfhf&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-博斯無限台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=chn5846zbkg&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro Arena(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt4695dbqv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro Arena 2(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt1056hhaa&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro Arena Bola(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt0709vcrw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro Arena Bola 2(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt3052szuw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro Badminton(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt0603sewv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro Grandstand(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt2145dtpp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro Premier League(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt1239jnbz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro Premier League 2(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt9160kkec&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Astro Sports Plus(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt1522astj&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-beIN SPORTS(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt4642czjj&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-beIN SPORTS 2(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt9663ugpt&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-beIN SPORTS 3(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt1724wvak&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-SPOTV(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt2489rcdk&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-SPOTV 2(馬來西亞🇲🇾),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt3580wzak&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-beIN SPORTS XTRA(美國🇺🇸),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt2871qukv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Unbeaten(美國🇺🇸),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt3199fbtu&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-DAZN F1(西班牙🇪🇸),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt2588jqfk&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-DAZN 西甲(西班牙🇪🇸),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt8302tfuk&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-DAZN 1(西班牙🇪🇸),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt0333spba&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-DAZN 2(西班牙🇪🇸),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt4378nubc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-西甲 TV 1 (西班牙🇪🇸),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt8733pqdw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-西甲 TV 2 (西班牙🇪🇸),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt2623mmdn&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-西甲 TV 3 (西班牙🇪🇸),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt5745rvsu&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Eurosport 1(英國🇬🇧),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt7144ebqr&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Eurosport 2(英國🇬🇧),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt4460hwan&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Eurosport 1(法國🇫🇷),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt9943wqum&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Eurosport 2(法國🇫🇷),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt8338dazw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Eurosport 1(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt6216nrvu&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Eurosport 2(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt9938jbrn&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Hub Premier 1(新加坡🇸🇬),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt5419shft&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Hub Sports 1(新加坡🇸🇬),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=spt8361psuv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport Arena(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky5420ndkm&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport Calcio(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky6245jkpm&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport F1(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky4648ccnn&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport Golf(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky3715rfje&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport Max(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky2536kdjm&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport MotoGP(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky7287pcrw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport NBA(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky7259jqfv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport Tennis(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky4194kuez&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport Uno(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky3203dkbh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport 24(意大利🇮🇹),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky1706rafz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport Mix(德國🇩🇪),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky5841rhzv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport News(德國🇩🇪),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky9750zwgk&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport Premier League(德國🇩🇪),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky3862hhkj&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sky Sport Top Event(德國🇩🇪),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky2184wnbz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sport1 Plus(德國🇩🇪),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky6953wqca&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Sportdigital FUSSBALL(德國🇩🇪),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky9830awzb&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TNT Sports 1(英國🇬🇧),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky0934jvkm&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TNT Sports 2(英國🇬🇧),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky9531fekj&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TNT Sports 3(英國🇬🇧),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky6406uttm&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TNT Sports 4(英國🇬🇧),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=sky6401pjak&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-ABC Australia,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng7017thwb&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-AL Jazeera English,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng7078eskb&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-BBC World News,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng0979rzej&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Bloomberg Asia,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng8596mzgp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CBN News,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng9167qjbd&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CBS,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng0358hqps&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CBS News,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng5450eaue&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CBS News Los Angeles,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng1644fhcp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CNA News,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng6483skht&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CNBC Asia,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng3868apbv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CNN international,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng4353bbkk&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CNN US,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng8034cffq&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-DW News,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng1777kzsr&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Fox News Now,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng6606vkdf&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Fox News,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng8713hdfc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-France 24 English,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng3979bbhm&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-NBC News Now,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng7261musg&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-NBC,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng1271tjzf&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-NTV Germany,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng0084gtaf&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-phoenix Germany,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng7156eqrq&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Russia Today,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng3516nena&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-SKY News,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng6742gusg&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-tagesschau24,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng9141mzde&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TRT World,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng6158sbgj&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-WELT,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng7236qvue&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-ZDF info,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng7405skku&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-연합뉴스TV_로고(韓聯社新聞),https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng5812wzpz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-one,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng9630vtef&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-KBS World,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng6022cmgm&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-NHK World Japan,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng0182tart&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-NHK World Premium,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng9851fcud&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-USA Network,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=eng9890kweq&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-東森新聞,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn0795vgvk&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-東森財經新聞,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn0255hphh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-中天新聞,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn1762pwqr&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-華視新聞,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn4002ajeu&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-中視新聞,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn4273zwsq&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-民視新聞,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn0907matc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-寰宇新聞,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn0611tbpw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-寰宇台灣,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn0990vmdf&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-寰宇財經新聞,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn7376tcbt&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-台視新聞台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn4023npuw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-台視財經台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn3708qrpw&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-非凡新聞,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn1245dkka&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-非凡商業台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn2737whgh&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVBS新聞,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn5858nnhr&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVBS,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=twn1587mfsc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Smart知識頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov7493qgdc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-三立綜合台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov5361wsnc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-愛爾達娛樂台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov5513rget&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVBS綜藝台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov7761pzzf&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVBS台劇台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov1373bzns&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVBS精彩台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov1621hekn&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-TVBS歡樂台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov0542rffv&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CinemaWorld電影,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov0180pktu&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-龍華電影,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov6211zmtf&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-靖天電影台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov8986uqhd&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-影迷數位電影台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov9451jmsf&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-amc電影台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov0160sgwz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CatchPlay電影台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov2032vhnb&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-動畫世界頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov0963metd&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-尼克兒童頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov2750muzk&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Nick Jr. 兒童頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov0945ckcq&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Dream Works夢工廠動畫,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov0508aggz&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-MOMO親子台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov0354vdnd&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CBeebies Asia,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov1043tzrr&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Moonbug Kids,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov9813qqfn&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-達文西頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov6408pmzp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-ELTV生活英語台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov0114csqs&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Live ABC 互動英語頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov3752ukjc&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-愛爾達生活旅遊台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov0017uwwr&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-亞洲旅遊台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov0649hegu&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Global Trekker探索世界,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov7757dajp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-Lifetime,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov1178bfhp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-MTV Live,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov7844vjkp&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-History歷史頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov2238bvbt&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-CI 罪案偵查頻道,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov2498vfwm&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-幸福空間居家台,https://sc2024.stream-link.org/playlist/1708021337d8.php?id=mov9507buee&token=04cf65ad-754b-4957-a09b-70947bd5eeac&hmac=dbc143f1b2cde90abdfbaa2d65b1d262
-
+民視,https://tv.banye.tech:7777/litv/4gtv-4gtv002
+民視第一台,https://tv.banye.tech:7777/litv/4gtv-4gtv003
+民視新聞台,https://tv.banye.tech:7777/litv/litv-ftv13
+民視台灣台,https://tv.banye.tech:7777/litv/4gtv-4gtv001
+民視影劇台,https://tv.banye.tech:7777/litv/litv-ftv09
+民視旅遊台,https://tv.banye.tech:7777/litv/litv-ftv07
+民視綜藝台,https://tv.banye.tech:7777/litv/4gtv-4gtv004
+中視,https://tv.banye.tech:7777/litv/4gtv-4gtv040
+中視新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv074
+中視經典台,https://tv.banye.tech:7777/litv/4gtv-4gtv080
+中視菁采台,https://tv.banye.tech:7777/litv/4gtv-4gtv064
+中天新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv009
+中天亞洲台,https://tv.banye.tech:7777/litv/4gtv-4gtv109
+華視,https://tv.banye.tech:7777/litv/4gtv-4gtv041
+華視新聞,https://tv.banye.tech:7777/litv/4gtv-4gtv052
+靖天綜合台,https://tv.banye.tech:7777/litv/4gtv-4gtv046
+靖天國際台,https://tv.banye.tech:7777/litv/4gtv-4gtv063
+靖天戲劇台,https://tv.banye.tech:7777/litv/4gtv-4gtv058
+靖天日本台,https://tv.banye.tech:7777/litv/4gtv-4gtv047
+靖天映畫台,https://tv.banye.tech:7777/litv/4gtv-4gtv055
+靖天卡通台,https://tv.banye.tech:7777/litv/4gtv-4gtv044
+靖天育樂台,https://tv.banye.tech:7777/litv/4gtv-4gtv062
+靖天資訊台,https://tv.banye.tech:7777/litv/4gtv-4gtv065
+靖天電影台,https://tv.banye.tech:7777/litv/4gtv-4gtv061
+靖天歡樂台,https://tv.banye.tech:7777/litv/4gtv-4gtv054
+龍華偶像台,https://tv.banye.tech:7777/litv/litv-longturn12
+龍華卡通台,https://tv.banye.tech:7777/litv/litv-longturn01
+龍華戲劇台,https://tv.banye.tech:7777/litv/litv-longturn18
+龍華日韓台,https://tv.banye.tech:7777/litv/litv-longturn11
+龍華經典台,https://tv.banye.tech:7777/litv/litv-longturn21
+龍華電影台,https://tv.banye.tech:7777/litv/litv-longturn03
+靖洋戲劇台,https://tv.banye.tech:7777/litv/4gtv-4gtv045
+靖洋卡通 Nice Bingo,https://tv.banye.tech:7777/litv/4gtv-4gtv057
+寰宇新聞台,https://tv.banye.tech:7777/litv/litv-longturn14
+寰宇新聞台灣台,https://tv.banye.tech:7777/litv/litv-longturn15
+寰宇財經台,https://tv.banye.tech:7777/litv/litv-longturn23
+TVBS,https://tv.banye.tech:7777/litv/4gtv-4gtv073
+TVBS 新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv072
+TVBS 綜藝台,https://tv.banye.tech:7777/4gtv/284
+TVBS 歡樂台,https://tv.banye.tech:7777/litv/4gtv-4gtv068
+TVBS 精采台,https://tv.banye.tech:7777/litv/4gtv-4gtv067
+TVBS 台劇台,https://tv.banye.tech:7777/4gtv/285
+八大精彩台,https://tv.banye.tech:7777/litv/4gtv-4gtv034
+八大綜藝台,https://tv.banye.tech:7777/litv/4gtv-4gtv039
+三立綜合台,https://tv.banye.tech:7777/4gtv/169
+三立 iNEWS,https://tv.banye.tech:7777/4gtv/229
+台視,https://tv.banye.tech:7777/litv/4gtv-4gtv066
+台視新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv051
+台視財經台,https://tv.banye.tech:7777/litv/4gtv-4gtv056
+博斯運動一台,https://tv.banye.tech:7777/litv/litv-longturn07
+博斯運動二台,https://tv.banye.tech:7777/litv/litv-longturn08
+博斯無限台,https://tv.banye.tech:7777/litv/litv-longturn10
+博斯無限二台,https://tv.banye.tech:7777/litv/litv-longturn13
+博斯網球台,https://tv.banye.tech:7777/litv/litv-longturn09
+博斯高球台,https://tv.banye.tech:7777/litv/litv-longturn05
+博斯高球二台,https://tv.banye.tech:7777/litv/litv-longturn06
+博斯魅力台,https://tv.banye.tech:7777/litv/litv-longturn04
+ELTA 娛樂台,https://tv.banye.tech:7777/litv/4gtv-4gtv070
+ELTA 生活旅遊,https://tv.banye.tech:7777/4gtv/237
+ELTV 生活英語,https://tv.banye.tech:7777/litv/litv-longturn20
+東森新聞,https://tv.banye.tech:7777/litv/4gtv-4gtv152
+東森財經新聞,https://tv.banye.tech:7777/litv/4gtv-4gtv153
+非凡新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv010
+非凡商業台,https://tv.banye.tech:7777/litv/4gtv-4gtv048
+鏡電視新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv075
+CNBC Asia 財經台,https://tv.banye.tech:7777/4gtv/235
+亞洲旅遊台,https://tv.banye.tech:7777/litv/litv-longturn17
+GINX Esports TV,https://tv.banye.tech:7777/litv/4gtv-4gtv053
+TechStorm,https://tv.banye.tech:7777/4gtv/181
+時尚運動X,https://tv.banye.tech:7777/4gtv/277
+智林體育台,https://tv.banye.tech:7777/litv/4gtv-4gtv101
+TraceSports,https://tv.banye.tech:7777/litv/4gtv-4gtv077
+影迷數位紀實台,https://tv.banye.tech:7777/4gtv/212
+影迷數位電影台,https://tv.banye.tech:7777/litv/4gtv-4gtv011
+AMC 電影台,https://tv.banye.tech:7777/litv/4gtv-4gtv017
+CatchPlay 電影台,https://tv.banye.tech:7777/litv/4gtv-4gtv076
+My Cinema Europe HD 我的歐洲電影,https://tv.banye.tech:7777/4gtv/176
+公視戲劇台,https://tv.banye.tech:7777/litv/4gtv-4gtv042
+采昌影劇台,https://tv.banye.tech:7777/litv/4gtv-4gtv049
+台灣戲劇台,https://tv.banye.tech:7777/litv/litv-longturn22
+戲劇免費看 1台,https://tv.banye.tech:7777/4gtv/270
+戲劇免費看 2台,https://tv.banye.tech:7777/4gtv/244
+經典電影台,https://tv.banye.tech:7777/4gtv/201
+電影免費看 2台,https://tv.banye.tech:7777/4gtv/245
+電影原聲台 CMusic,https://tv.banye.tech:7777/4gtv/218
+花系列 經典劇場,https://tv.banye.tech:7777/4gtv/279
+CinemaWorld,https://tv.banye.tech:7777/4gtv/225
+HITS 頻道,https://tv.banye.tech:7777/4gtv/186
+Rock Action,https://tv.banye.tech:7777/4gtv/180
+Rock Entertainment,https://tv.banye.tech:7777/4gtv/275
+金光布袋戲,https://tv.banye.tech:7777/4gtv/236
+霹靂布袋戲,https://tv.banye.tech:7777/4gtv/301
+DreamWorks 夢工廠動畫,https://tv.banye.tech:7777/4gtv/282
+Nickelodeon,https://tv.banye.tech:7777/4gtv/185
+Nick Jr. 兒童頻道,https://tv.banye.tech:7777/4gtv/219
+i-Fun 動漫台,https://tv.banye.tech:7777/litv/litv-ftv15
+兒童卡通台,https://tv.banye.tech:7777/4gtv/269
+精選動漫台,https://tv.banye.tech:7777/4gtv/204
+經典卡通台,https://tv.banye.tech:7777/4gtv/202
+達文西頻道,https://tv.banye.tech:7777/litv/4gtv-4gtv018
+超人力霸王整套看,https://tv.banye.tech:7777/4gtv/278
+MOMO 親子台,https://tv.banye.tech:7777/4gtv/231
+LiveABC 互動英語台,https://tv.banye.tech:7777/4gtv/188
+Classica 古典樂,https://tv.banye.tech:7777/litv/4gtv-4gtv059
+Lifetime 娛樂頻道,https://tv.banye.tech:7777/4gtv/217
+MTV Live HD 音樂頻道,https://tv.banye.tech:7777/4gtv/213
+Mezzo Live,https://tv.banye.tech:7777/litv/4gtv-4gtv083
+豬哥亮歌廳秀,https://tv.banye.tech:7777/litv/4gtv-4gtv006
+Trace Urban,https://tv.banye.tech:7777/litv/4gtv-4gtv082
+Global Trekker,https://tv.banye.tech:7777/4gtv/252
+韓國娛樂台,https://tv.banye.tech:7777/litv/4gtv-4gtv016
+LUXE TV,https://tv.banye.tech:7777/4gtv/175
+Pet Club TV,https://tv.banye.tech:7777/4gtv/182
+TV5MONDE Style,https://tv.banye.tech:7777/4gtv/178
+車迷 TV,https://tv.banye.tech:7777/4gtv/160
+Love Nature,https://tv.banye.tech:7777/4gtv/139
+Fun 探索娛樂台,https://tv.banye.tech:7777/4gtv/274
+幸福空間居家台,https://tv.banye.tech:7777/4gtv/168
+Arirang TV,https://tv.banye.tech:7777/litv/4gtv-4gtv079
+Bloomberg TV,https://tv.banye.tech:7777/4gtv/283
+VOA 美國之音,https://tv.banye.tech:7777/litv/litv-ftv03
+DW德國之聲,https://tv.banye.tech:7777/4gtv/226
+SBN 全球財經台,https://tv.banye.tech:7777/4gtv/224
+半島國際新聞台,https://tv.banye.tech:7777/litv/litv-ftv10
+第1商業台,https://tv.banye.tech:7777/litv/4gtv-4gtv104
+History 歷史頻道,https://tv.banye.tech:7777/4gtv/214
+CI 罪案偵查頻道,https://tv.banye.tech:7777/4gtv/215
+Smart 知識台,https://tv.banye.tech:7777/litv/litv-longturn19
+視納華仁紀實頻道,https://tv.banye.tech:7777/litv/4gtv-4gtv013
+原住民族電視台,https://tv.banye.tech:7777/4gtv/273
+客家電視台,https://tv.banye.tech:7777/litv/4gtv-4gtv043
+滾動力 Rollor,https://tv.banye.tech:7777/4gtv/249
+好消息,https://tv.banye.tech:7777/litv/litv-ftv16
+好消息2台,https://tv.banye.tech:7777/litv/litv-ftv17
+大愛電視,https://tv.banye.tech:7777/4gtv/209
+大愛電視2,https://tv.banye.tech:7777/4gtv/230
+人間衛視,https://tv.banye.tech:7777/4gtv/210
+國會頻道1,https://tv.banye.tech:7777/litv/4gtv-4gtv084
+國會頻道2,https://tv.banye.tech:7777/litv/4gtv-4gtv085
+東森購物一台,https://tv.banye.tech:7777/4gtv/173
+東森購物二台,https://tv.banye.tech:7777/4gtv/174
+東森購物三台,https://tv.banye.tech:7777/4gtv/287
+東森購物四台,https://tv.banye.tech:7777/4gtv/286
 
 测试综合,#genre#
 
