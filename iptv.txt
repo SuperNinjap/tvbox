@@ -646,7 +646,7 @@ Lifetime, http://212.102.60.231/LIFETIME/index.m3u8
 nick jr., http://212.102.60.231/NICK_JR/index.m3u8
 
 
-午夜销魂,#genre#,#9528#
+午夜销魂_9527,#genre#
 
 🔞精艳台,http://127.0.0.1:10079/p/0/proxy/http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
 🔞潘多拉,http://127.0.0.1:10079/p/0/proxy/http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
