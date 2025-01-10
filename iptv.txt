@@ -1,4 +1,4 @@
-肥羊高码,#genre#
+央视高码,#genre#
 
 CCTV1,http://127.0.0.1:35456/gaoma/cctv1.m3u8
 
@@ -42,46 +42,46 @@ CCTV4K_10M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cc
 
 CCTV8K_36M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv8k_36m.m3u8
 
-肥羊央视回看,#genre#
+央视回看,#genre#
 
-CCTV-1-HEVC,http://127.0.0.1:35456/itv/1000000005000265001.m3u8?cdn=ystenlive
-CCTV-2-HEVC,http://127.0.0.1:35456/itv/1000000001000023315.m3u8?cdn=ystenlive
-CCTV-3-HEVC,http://127.0.0.1:35456/itv/1000000005000265003.m3u8?cdn=ystenlive
-CCTV-4-HEVC,http://127.0.0.1:35456/itv/1000000005000265004.m3u8?cdn=ystenlive
-CCTV-5-HEVC,http://127.0.0.1:35456/itv/1000000005000265005.m3u8?cdn=ystenlive
-CCTV-5+-HEVC,http://127.0.0.1:35456/itv/1000000005000265016.m3u8?cdn=ystenlive
-CCTV-6-HEVC,http://127.0.0.1:35456/itv/1000000005000265006.m3u8?cdn=ystenlive
-CCTV-7-HEVC,http://127.0.0.1:35456/itv/1000000005000265007.m3u8?cdn=ystenlive
-CCTV-8-HEVC,http://127.0.0.1:35456/itv/1000000005000265008.m3u8?cdn=ystenlive
-CCTV-9-HEVC,http://127.0.0.1:35456/itv/1000000005000265009.m3u8?cdn=ystenlive
-CCTV-10-HEVC,http://127.0.0.1:35456/itv/1000000005000265010.m3u8?cdn=ystenlive
-CCTV-11-HEVC,http://127.0.0.1:35456/itv/1000000005000265011.m3u8?cdn=ystenlive
-CCTV-12-HEVC,http://127.0.0.1:35456/itv/1000000005000265012.m3u8?cdn=ystenlive
-CCTV-14-HEVC,http://127.0.0.1:35456/itv/1000000005000265013.m3u8?cdn=ystenlive
-CCTV-15-HEVC,http://127.0.0.1:35456/itv/1000000005000265014.m3u8?cdn=ystenlive
-CCTV-16-4K-HEVC,http://127.0.0.1:35456/itv/5000000008000023254.m3u8?cdn=bestzb
+CCTV-1,http://127.0.0.1:35456/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV-2,http://127.0.0.1:35456/itv/1000000001000023315.m3u8?cdn=ystenlive
+CCTV-3,http://127.0.0.1:35456/itv/1000000005000265003.m3u8?cdn=ystenlive
+CCTV-4,http://127.0.0.1:35456/itv/1000000005000265004.m3u8?cdn=ystenlive
+CCTV-5,http://127.0.0.1:35456/itv/1000000005000265005.m3u8?cdn=ystenlive
+CCTV-5+,http://127.0.0.1:35456/itv/1000000005000265016.m3u8?cdn=ystenlive
+CCTV-6,http://127.0.0.1:35456/itv/1000000005000265006.m3u8?cdn=ystenlive
+CCTV-7,http://127.0.0.1:35456/itv/1000000005000265007.m3u8?cdn=ystenlive
+CCTV-8,http://127.0.0.1:35456/itv/1000000005000265008.m3u8?cdn=ystenlive
+CCTV-9,http://127.0.0.1:35456/itv/1000000005000265009.m3u8?cdn=ystenlive
+CCTV-10,http://127.0.0.1:35456/itv/1000000005000265010.m3u8?cdn=ystenlive
+CCTV-11,http://127.0.0.1:35456/itv/1000000005000265011.m3u8?cdn=ystenlive
+CCTV-12,http://127.0.0.1:35456/itv/1000000005000265012.m3u8?cdn=ystenlive
+CCTV-14,http://127.0.0.1:35456/itv/1000000005000265013.m3u8?cdn=ystenlive
+CCTV-15,http://127.0.0.1:35456/itv/1000000005000265014.m3u8?cdn=ystenlive
+CCTV-16-4K,http://127.0.0.1:35456/itv/5000000008000023254.m3u8?cdn=bestzb
 CCTV-16,http://127.0.0.1:35456/itv/1000000006000233002.m3u8?cdn=ystenlive
-CCTV-17-HEVC,http://127.0.0.1:35456/itv/1000000005000265015.m3u8?cdn=ystenlive
+CCTV-17,http://127.0.0.1:35456/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 
-肥羊卫视回看,#genre#
+卫视回看,#genre#
 
-湖南卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265024.m3u8?cdn=ystenlive
-江苏卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265030.m3u8?cdn=ystenlive
-浙江卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265031.m3u8?cdn=ystenlive
-东南卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265033.m3u8?cdn=ystenlive
-东方卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265018.m3u8?cdn=ystenlive
-北京卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265027.m3u8?cdn=ystenlive
-天津卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265026.m3u8?cdn=ystenlive
-安徽卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265025.m3u8?cdn=ystenlive
-山东卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265019.m3u8?cdn=ystenlive
-广东卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265034.m3u8?cdn=ystenlive
-江西卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265032.m3u8?cdn=ystenlive
-深圳卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265028.m3u8?cdn=ystenlive
-湖北卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265023.m3u8?cdn=ystenlive
-辽宁卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265022.m3u8?cdn=ystenlive
-重庆卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265017.m3u8?cdn=ystenlive
-黑龙江卫视-HEVC,http://127.0.0.1:35456/itv/1000000005000265029.m3u8?cdn=ystenlive
+湖南卫视,http://127.0.0.1:35456/itv/1000000005000265024.m3u8?cdn=ystenlive
+江苏卫视,http://127.0.0.1:35456/itv/1000000005000265030.m3u8?cdn=ystenlive
+浙江卫视,http://127.0.0.1:35456/itv/1000000005000265031.m3u8?cdn=ystenlive
+东南卫视,http://127.0.0.1:35456/itv/1000000005000265033.m3u8?cdn=ystenlive
+东方卫视,http://127.0.0.1:35456/itv/1000000005000265018.m3u8?cdn=ystenlive
+北京卫视,http://127.0.0.1:35456/itv/1000000005000265027.m3u8?cdn=ystenlive
+天津卫视,http://127.0.0.1:35456/itv/1000000005000265026.m3u8?cdn=ystenlive
+安徽卫视,http://127.0.0.1:35456/itv/1000000005000265025.m3u8?cdn=ystenlive
+山东卫视,http://127.0.0.1:35456/itv/1000000005000265019.m3u8?cdn=ystenlive
+广东卫视,http://127.0.0.1:35456/itv/1000000005000265034.m3u8?cdn=ystenlive
+江西卫视,http://127.0.0.1:35456/itv/1000000005000265032.m3u8?cdn=ystenlive
+深圳卫视,http://127.0.0.1:35456/itv/1000000005000265028.m3u8?cdn=ystenlive
+湖北卫视,http://127.0.0.1:35456/itv/1000000005000265023.m3u8?cdn=ystenlive
+辽宁卫视,http://127.0.0.1:35456/itv/1000000005000265022.m3u8?cdn=ystenlive
+重庆卫视,http://127.0.0.1:35456/itv/1000000005000265017.m3u8?cdn=ystenlive
+黑龙江卫视,http://127.0.0.1:35456/itv/1000000005000265029.m3u8?cdn=ystenlive
 河北卫视,http://127.0.0.1:35456/itv/5000000006000040016.m3u8?cdn=bestzb
 河南卫视,http://127.0.0.1:35456/itv/5000000011000031119.m3u8?cdn=bestzb
 四川卫视,http://127.0.0.1:35456/itv/5000000004000006119.m3u8?cdn=bestzb
@@ -96,9 +96,8 @@ CCTV-17-HEVC,http://127.0.0.1:35456/itv/1000000005000265015.m3u8?cdn=ystenlive
 中国教育电视台-1,http://127.0.0.1:35456/itv/5000000002000002652.m3u8?cdn=bestzb
 中国教育电视台-4,http://127.0.0.1:35456/itv/5000000011000031126.m3u8?cdn=bestzb
 
-肥羊数字回看,#genre#
+数字回看,#genre#
 
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 SiTV-欢笑剧场-4K,http://127.0.0.1:35456/itv/5000000007000010001.m3u8?cdn=bestzb
 华数-4K,http://127.0.0.1:35456/itv/6000000003000004748.m3u8?cdn=wasusyt
 咪咕4K-1,http://127.0.0.1:35456/itv/3000000010000005180.m3u8?cdn=FifastbLive
@@ -108,8 +107,8 @@ SiTV-欢笑剧场-4K,http://127.0.0.1:35456/itv/5000000007000010001.m3u8?cdn=bes
 求索纪录,http://127.0.0.1:35456/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索科学,http://127.0.0.1:35456/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索生活,http://127.0.0.1:35456/itv/6000000002000003382.m3u8?cdn=wasusyt
-纪实科教-HEVC,http://127.0.0.1:35456/itv/1000000005000265020.m3u8?cdn=ystenlive
-纪实人文-HEVC,http://127.0.0.1:35456/itv/1000000005000265021.m3u8?cdn=ystenlive
+纪实科教,http://127.0.0.1:35456/itv/1000000005000265020.m3u8?cdn=ystenlive
+纪实人文,http://127.0.0.1:35456/itv/1000000005000265021.m3u8?cdn=ystenlive
 ICS外语,http://127.0.0.1:35456/itv/5000000010000030951.m3u8?cdn=bestzb
 东方影视,http://127.0.0.1:35456/itv/5000000010000032212.m3u8?cdn=bestzb
 新闻综合,http://127.0.0.1:35456/itv/5000000011000031110.m3u8?cdn=bestzb
@@ -192,7 +191,7 @@ iHOT-爱院线,http://127.0.0.1:35456/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 CCTV-1综合,http://[2409:8087:1a0a:df::4031]:80/wh7f454c46tw705163907_345094122/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
-CCTV—2财经,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=YanG-1989
+CCTV—2财经,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 
 CCTV-3综艺,http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1306766403_-33994166/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 
@@ -231,6 +230,28 @@ CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/888
 CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 
 CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+
+CCTV-第一剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
+
+CCTV-风云足球,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+
+CCTV-世界地理,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
+
+CCTV-央视台球,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+
+CCTV-央视高网,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+
+CCTV-风云音乐,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
+
+CCTV-风云剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
+
+CCTV-怀旧剧场,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
+
+CCTV-文化精品,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
+
+CCTV-女性时尚,http://[2409:8087:7008:20::c]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
+
+CCTV-电视指南,http://[2409:8087:7008:20::a]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8
 
 卫视综合,#genre#
 
@@ -334,6 +355,10 @@ CCTV16.4K,http://[2409:8087:5e08:24::d]:6610/000000001000/5000000008000023254/in
 1905电影网国外,http://dns.yiandrive.com:16813/1905/1905b
 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
+淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2
+
+淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 
 纪实科教,http://[2409:8087:1a0a:df::4007]/wh7f454c46tw1180979460_1836975362/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/2.m3u8
 
