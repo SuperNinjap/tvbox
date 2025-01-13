@@ -1,12 +1,18 @@
 央视高码,#genre#
 
+CCTV1-4K,http://127.0.0.1:35456/ciptv/G_CCTV-1-AVS-4K264.m3u8
+
 CCTV1,http://127.0.0.1:35456/gaoma/cctv1.m3u8
 
 CCTV2,http://127.0.0.1:35456/gaoma/cctv2.m3u8
 
+CCTV3-4K,http://127.0.0.1:35456/ciptv/G_CCTV-3-AVS-4K264.m3u8
+
 CCTV3,http://127.0.0.1:35456/gaoma/cctv3.m3u8
 
 CCTV4,http://127.0.0.1:35456/gaoma/cctv4.m3u8
+
+CCTV5-4K,http://127.0.0.1:35456/ciptv/G_CCTV-5-AVS-4K264.m3u8
 
 CCTV5,http://127.0.0.1:35456/gaoma/cctv5.m3u8
 
@@ -36,11 +42,41 @@ CCTV16,http://127.0.0.1:35456/gaoma/cctv16.m3u8
 
 CCTV17,http://127.0.0.1:35456/gaoma/cctv17.m3u8
 
-CCTV4K16_10M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv4k16_10m.m3u8
+CCTV16_10M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv4k16_10m.m3u8
 
 CCTV4K_10M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv4k_10m.m3u8
 
 CCTV8K_36M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv8k_36m.m3u8
+
+CCTV-第一剧场,http://127.0.0.1:35456/ciptv/G_DIYIJC-CQ.m3u8
+
+CCTV-风云足球,http://127.0.0.1:35456/ciptv/G_FENGSHANGZQ-CQ.m3u8
+
+CCTV-世界地理,http://127.0.0.1:35456/ciptv/G_SHIJIEDL-CQ.m3u8
+
+CCTV-兵器科技,http://127.0.0.1:35456/ciptv/G_BINGQIKJ-CQ.m3u8
+
+CCTV-央视台球,http://127.0.0.1:35456/ciptv/G_TAIQIU-CQ.m3u8
+
+CCTV-央视高网,http://127.0.0.1:35456/ciptv/G_CCTV-GOLF-CQ.m3u8
+
+CCTV-风云音乐,http://127.0.0.1:35456/ciptv/G_FENGYUNYY-CQ.m3u8
+
+CCTV-风云剧场,http://127.0.0.1:35456/ciptv/G_FENGYUNJC-CQ.m3u8
+
+CCTV-怀旧剧场,http://127.0.0.1:35456/ciptv/G_HUAIJIUJC-CQ.m3u8
+
+CCTV-文化精品,http://127.0.0.1:35456/ciptv/G_CCTV-WENHUA-CQ.m3u8
+
+CCTV-女性时尚,http://127.0.0.1:35456/ciptv/G_NVXINGSS-CQ.m3u8
+
+CCTV-电视指南,http://127.0.0.1:35456/ciptv/G_DIANSHIZN-CQ.m3u8
+
+凤凰卫视中文台,http://127.0.0.1:35456/ciptv/HD-10000k-1080P-fhchinese5s.m3u8?pt=cntv
+
+凤凰卫视资讯台,http://127.0.0.1:35456/ciptv/HD-10000k-1080P-fhzixun5s.m3u8?pt=cntv
+
+凤凰卫视香港台,http://127.0.0.1:35456/ciptv/HD-10000k-1080P-fhhongkong5s.m3u8?pt=cntv
 
 央视回看,#genre#
 
@@ -59,8 +95,7 @@ CCTV-11,http://127.0.0.1:35456/itv/1000000005000265011.m3u8?cdn=ystenlive
 CCTV-12,http://127.0.0.1:35456/itv/1000000005000265012.m3u8?cdn=ystenlive
 CCTV-14,http://127.0.0.1:35456/itv/1000000005000265013.m3u8?cdn=ystenlive
 CCTV-15,http://127.0.0.1:35456/itv/1000000005000265014.m3u8?cdn=ystenlive
-CCTV-16-4K,http://127.0.0.1:35456/itv/5000000008000023254.m3u8?cdn=bestzb
-CCTV-16,http://127.0.0.1:35456/itv/1000000006000233002.m3u8?cdn=ystenlive
+CCTV-16,http://127.0.0.1:35456/itv/5000000008000023254.m3u8?cdn=bestzb
 CCTV-17,http://127.0.0.1:35456/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 
