@@ -878,11 +878,9 @@ Now Sports 641,https://live.hkdvb.com/hls/live/641.m3u8?token=660938530706219
 Now Sports 642,https://live.hkdvb.com/hls/live/642.m3u8?token=660938530706219
 港台電視 31,https://live.hkdvb.com/hls/live/31.m3u8?token=660938530706219
 港台電視 32,https://live.hkdvb.com/hls/live/32.m3u8?token=660938530706219
-天映经典,,https://live.hkdvb.com/hls/live/500.m3u8?token=660938530706219
+天映经典,https://live.hkdvb.com/hls/live/500.m3u8?token=660938530706219
 天映频道,https://live.hkdvb.com/hls/live/501.m3u8?token=660938530706219
-珠江,https://live.hkdvb.com/hls/live/502.m3u8?token=660938530706219
-广东体育,https://live.hkdvb.com/hls/live/503.m3u8?token=660938530706219
-SuperSport LaLiga,https://live.hkdvb.com/hls/live/700.m3u8?token=660938530706219
+
 
 
 
