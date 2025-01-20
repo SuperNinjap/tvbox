@@ -903,155 +903,6 @@ Now Sports 642,https://live.hkdvb.com/hls/live/642.m3u8?token=660938530706219
 天映频道,https://live.hkdvb.com/hls/live/501.m3u8?token=660938530706219
 
 
-
-
-台湾代理,#genre#
-
-民視,https://tv.banye.tech:7777/litv/4gtv-4gtv002
-民視第一台,https://tv.banye.tech:7777/litv/4gtv-4gtv003
-民視新聞台,https://tv.banye.tech:7777/litv/litv-ftv13
-民視台灣台,https://tv.banye.tech:7777/litv/4gtv-4gtv001
-民視影劇台,https://tv.banye.tech:7777/litv/litv-ftv09
-民視旅遊台,https://tv.banye.tech:7777/litv/litv-ftv07
-民視綜藝台,https://tv.banye.tech:7777/litv/4gtv-4gtv004
-中視,https://tv.banye.tech:7777/litv/4gtv-4gtv040
-中視新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv074
-中視經典台,https://tv.banye.tech:7777/litv/4gtv-4gtv080
-中視菁采台,https://tv.banye.tech:7777/litv/4gtv-4gtv064
-中天新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv009
-中天亞洲台,https://tv.banye.tech:7777/litv/4gtv-4gtv109
-華視,https://tv.banye.tech:7777/litv/4gtv-4gtv041
-華視新聞,https://tv.banye.tech:7777/litv/4gtv-4gtv052
-靖天綜合台,https://tv.banye.tech:7777/litv/4gtv-4gtv046
-靖天國際台,https://tv.banye.tech:7777/litv/4gtv-4gtv063
-靖天戲劇台,https://tv.banye.tech:7777/litv/4gtv-4gtv058
-靖天日本台,https://tv.banye.tech:7777/litv/4gtv-4gtv047
-靖天映畫台,https://tv.banye.tech:7777/litv/4gtv-4gtv055
-靖天卡通台,https://tv.banye.tech:7777/litv/4gtv-4gtv044
-靖天育樂台,https://tv.banye.tech:7777/litv/4gtv-4gtv062
-靖天資訊台,https://tv.banye.tech:7777/litv/4gtv-4gtv065
-靖天電影台,https://tv.banye.tech:7777/litv/4gtv-4gtv061
-靖天歡樂台,https://tv.banye.tech:7777/litv/4gtv-4gtv054
-龍華偶像台,https://tv.banye.tech:7777/litv/litv-longturn12
-龍華卡通台,https://tv.banye.tech:7777/litv/litv-longturn01
-龍華戲劇台,https://tv.banye.tech:7777/litv/litv-longturn18
-龍華日韓台,https://tv.banye.tech:7777/litv/litv-longturn11
-龍華經典台,https://tv.banye.tech:7777/litv/litv-longturn21
-龍華電影台,https://tv.banye.tech:7777/litv/litv-longturn03
-靖洋戲劇台,https://tv.banye.tech:7777/litv/4gtv-4gtv045
-靖洋卡通 Nice Bingo,https://tv.banye.tech:7777/litv/4gtv-4gtv057
-寰宇新聞台,https://tv.banye.tech:7777/litv/litv-longturn14
-寰宇新聞台灣台,https://tv.banye.tech:7777/litv/litv-longturn15
-寰宇財經台,https://tv.banye.tech:7777/litv/litv-longturn23
-TVBS,https://tv.banye.tech:7777/litv/4gtv-4gtv073
-TVBS 新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv072
-TVBS 綜藝台,https://tv.banye.tech:7777/4gtv/284
-TVBS 歡樂台,https://tv.banye.tech:7777/litv/4gtv-4gtv068
-TVBS 精采台,https://tv.banye.tech:7777/litv/4gtv-4gtv067
-TVBS 台劇台,https://tv.banye.tech:7777/4gtv/285
-八大精彩台,https://tv.banye.tech:7777/litv/4gtv-4gtv034
-八大綜藝台,https://tv.banye.tech:7777/litv/4gtv-4gtv039
-三立綜合台,https://tv.banye.tech:7777/4gtv/169
-三立 iNEWS,https://tv.banye.tech:7777/4gtv/229
-台視,https://tv.banye.tech:7777/litv/4gtv-4gtv066
-台視新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv051
-台視財經台,https://tv.banye.tech:7777/litv/4gtv-4gtv056
-博斯運動一台,https://tv.banye.tech:7777/litv/litv-longturn07
-博斯運動二台,https://tv.banye.tech:7777/litv/litv-longturn08
-博斯無限台,https://tv.banye.tech:7777/litv/litv-longturn10
-博斯無限二台,https://tv.banye.tech:7777/litv/litv-longturn13
-博斯網球台,https://tv.banye.tech:7777/litv/litv-longturn09
-博斯高球台,https://tv.banye.tech:7777/litv/litv-longturn05
-博斯高球二台,https://tv.banye.tech:7777/litv/litv-longturn06
-博斯魅力台,https://tv.banye.tech:7777/litv/litv-longturn04
-ELTA 娛樂台,https://tv.banye.tech:7777/litv/4gtv-4gtv070
-ELTA 生活旅遊,https://tv.banye.tech:7777/4gtv/237
-ELTV 生活英語,https://tv.banye.tech:7777/litv/litv-longturn20
-東森新聞,https://tv.banye.tech:7777/litv/4gtv-4gtv152
-東森財經新聞,https://tv.banye.tech:7777/litv/4gtv-4gtv153
-非凡新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv010
-非凡商業台,https://tv.banye.tech:7777/litv/4gtv-4gtv048
-鏡電視新聞台,https://tv.banye.tech:7777/litv/4gtv-4gtv075
-CNBC Asia 財經台,https://tv.banye.tech:7777/4gtv/235
-亞洲旅遊台,https://tv.banye.tech:7777/litv/litv-longturn17
-GINX Esports TV,https://tv.banye.tech:7777/litv/4gtv-4gtv053
-TechStorm,https://tv.banye.tech:7777/4gtv/181
-時尚運動X,https://tv.banye.tech:7777/4gtv/277
-智林體育台,https://tv.banye.tech:7777/litv/4gtv-4gtv101
-TraceSports,https://tv.banye.tech:7777/litv/4gtv-4gtv077
-影迷數位紀實台,https://tv.banye.tech:7777/4gtv/212
-影迷數位電影台,https://tv.banye.tech:7777/litv/4gtv-4gtv011
-AMC 電影台,https://tv.banye.tech:7777/litv/4gtv-4gtv017
-CatchPlay 電影台,https://tv.banye.tech:7777/litv/4gtv-4gtv076
-My Cinema Europe HD 我的歐洲電影,https://tv.banye.tech:7777/4gtv/176
-公視戲劇台,https://tv.banye.tech:7777/litv/4gtv-4gtv042
-采昌影劇台,https://tv.banye.tech:7777/litv/4gtv-4gtv049
-台灣戲劇台,https://tv.banye.tech:7777/litv/litv-longturn22
-戲劇免費看 1台,https://tv.banye.tech:7777/4gtv/270
-戲劇免費看 2台,https://tv.banye.tech:7777/4gtv/244
-經典電影台,https://tv.banye.tech:7777/4gtv/201
-電影免費看 2台,https://tv.banye.tech:7777/4gtv/245
-電影原聲台 CMusic,https://tv.banye.tech:7777/4gtv/218
-花系列 經典劇場,https://tv.banye.tech:7777/4gtv/279
-CinemaWorld,https://tv.banye.tech:7777/4gtv/225
-HITS 頻道,https://tv.banye.tech:7777/4gtv/186
-Rock Action,https://tv.banye.tech:7777/4gtv/180
-Rock Entertainment,https://tv.banye.tech:7777/4gtv/275
-金光布袋戲,https://tv.banye.tech:7777/4gtv/236
-霹靂布袋戲,https://tv.banye.tech:7777/4gtv/301
-DreamWorks 夢工廠動畫,https://tv.banye.tech:7777/4gtv/282
-Nickelodeon,https://tv.banye.tech:7777/4gtv/185
-Nick Jr. 兒童頻道,https://tv.banye.tech:7777/4gtv/219
-i-Fun 動漫台,https://tv.banye.tech:7777/litv/litv-ftv15
-兒童卡通台,https://tv.banye.tech:7777/4gtv/269
-精選動漫台,https://tv.banye.tech:7777/4gtv/204
-經典卡通台,https://tv.banye.tech:7777/4gtv/202
-達文西頻道,https://tv.banye.tech:7777/litv/4gtv-4gtv018
-超人力霸王整套看,https://tv.banye.tech:7777/4gtv/278
-MOMO 親子台,https://tv.banye.tech:7777/4gtv/231
-LiveABC 互動英語台,https://tv.banye.tech:7777/4gtv/188
-Classica 古典樂,https://tv.banye.tech:7777/litv/4gtv-4gtv059
-Lifetime 娛樂頻道,https://tv.banye.tech:7777/4gtv/217
-MTV Live HD 音樂頻道,https://tv.banye.tech:7777/4gtv/213
-Mezzo Live,https://tv.banye.tech:7777/litv/4gtv-4gtv083
-豬哥亮歌廳秀,https://tv.banye.tech:7777/litv/4gtv-4gtv006
-Trace Urban,https://tv.banye.tech:7777/litv/4gtv-4gtv082
-Global Trekker,https://tv.banye.tech:7777/4gtv/252
-韓國娛樂台,https://tv.banye.tech:7777/litv/4gtv-4gtv016
-LUXE TV,https://tv.banye.tech:7777/4gtv/175
-Pet Club TV,https://tv.banye.tech:7777/4gtv/182
-TV5MONDE Style,https://tv.banye.tech:7777/4gtv/178
-車迷 TV,https://tv.banye.tech:7777/4gtv/160
-Love Nature,https://tv.banye.tech:7777/4gtv/139
-Fun 探索娛樂台,https://tv.banye.tech:7777/4gtv/274
-幸福空間居家台,https://tv.banye.tech:7777/4gtv/168
-Arirang TV,https://tv.banye.tech:7777/litv/4gtv-4gtv079
-Bloomberg TV,https://tv.banye.tech:7777/4gtv/283
-VOA 美國之音,https://tv.banye.tech:7777/litv/litv-ftv03
-DW德國之聲,https://tv.banye.tech:7777/4gtv/226
-SBN 全球財經台,https://tv.banye.tech:7777/4gtv/224
-半島國際新聞台,https://tv.banye.tech:7777/litv/litv-ftv10
-第1商業台,https://tv.banye.tech:7777/litv/4gtv-4gtv104
-History 歷史頻道,https://tv.banye.tech:7777/4gtv/214
-CI 罪案偵查頻道,https://tv.banye.tech:7777/4gtv/215
-Smart 知識台,https://tv.banye.tech:7777/litv/litv-longturn19
-視納華仁紀實頻道,https://tv.banye.tech:7777/litv/4gtv-4gtv013
-原住民族電視台,https://tv.banye.tech:7777/4gtv/273
-客家電視台,https://tv.banye.tech:7777/litv/4gtv-4gtv043
-滾動力 Rollor,https://tv.banye.tech:7777/4gtv/249
-好消息,https://tv.banye.tech:7777/litv/litv-ftv16
-好消息2台,https://tv.banye.tech:7777/litv/litv-ftv17
-大愛電視,https://tv.banye.tech:7777/4gtv/209
-大愛電視2,https://tv.banye.tech:7777/4gtv/230
-人間衛視,https://tv.banye.tech:7777/4gtv/210
-國會頻道1,https://tv.banye.tech:7777/litv/4gtv-4gtv084
-國會頻道2,https://tv.banye.tech:7777/litv/4gtv-4gtv085
-東森購物一台,https://tv.banye.tech:7777/4gtv/173
-東森購物二台,https://tv.banye.tech:7777/4gtv/174
-東森購物三台,https://tv.banye.tech:7777/4gtv/287
-東森購物四台,https://tv.banye.tech:7777/4gtv/286
-
-
 测试综合,#genre#
 
 
@@ -1071,27 +922,57 @@ Discovery Asia,https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery
 
 Zoom少儿,https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
-History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+History,http://127.0.0.1:10079/p/0/proxy/https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 
-爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Action Hollywood Movies,http://127.0.0.1:10079/p/0/proxy/https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-4K Travel,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+aMC 电影,http://127.0.0.1:10079/p/0/proxy/https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+AMC Thrillers 电影,http://127.0.0.1:10079/p/0/proxy/https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
+asiancrush 亚洲电影,http://127.0.0.1:10079/p/0/proxy/https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+
+AXS TV,http://127.0.0.1:10079/p/0/proxy/https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+
+BBC America,http://127.0.0.1:10079/p/0/proxy/https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+Bloomberg 美国,http://127.0.0.1:10079/p/0/proxy/https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8
+
+CBN News 美国,http://127.0.0.1:10079/p/0/proxy/https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+
+CNA 新加坡,http://127.0.0.1:10079/p/0/proxy/https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+Fight Network,http://127.0.0.1:10079/p/0/proxy/https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
+Fite TV,http://127.0.0.1:10079/p/0/proxy/https://4d362f8e.wurl.com/U3BvcnRzVFZfUEZMTU1BX0hMUw/playlist.m3u8
+
+Korean TV,http://127.0.0.1:10079/p/0/proxy/https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
+
+NINJA Kidz TV,http://127.0.0.1:10079/p/0/proxy/https://playworksdigital-ninjakidztv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+Rush by AMC 电影,http://127.0.0.1:10079/p/0/proxy/https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
+Sport En France,http://127.0.0.1:10079/p/0/proxy/https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+爱自然,http://127.0.0.1:10079/p/0/proxy/https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+4K Travel,http://127.0.0.1:10079/p/0/proxy/https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
 FASHION 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 FASHION 4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
-CLARITY,https://d3thiix3tzn48u.cloudfront.net/playlist.m3u8
+CLARITY,http://127.0.0.1:10079/p/0/proxy/https://d3thiix3tzn48u.cloudfront.net/playlist.m3u8
 
-LOUPE,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+LOUPE,http://127.0.0.1:10079/p/0/proxy/https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 TAIWAN PLUS,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 NHK WORLD JAPAN,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+WildEarth,http://127.0.0.1:10079/p/0/proxy/https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+Trace_Sports,http://127.0.0.1:10079/p/0/proxy/https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 HBO 2, http://212.102.60.231/HBO_2/index.m3u8
 
@@ -1117,6 +998,7 @@ nick jr., http://212.102.60.231/NICK_JR/index.m3u8
 🔞香蕉台,http://127.0.0.1:10079/p/0/proxy/https://18.svi-studio.com/live/565361330108/206277615704/4.m3u8
 🔞松视1台,http://127.0.0.1:10079/p/0/proxy/https://18.svi-studio.com/live/908957700097/132663288386/5.m3u8
 🔞松视2台,http://127.0.0.1:10079/p/0/proxy/http://18.svi-studio.com:8880/live/091271435055/841916267544/6.m3u8
+Miami TV,http://127.0.0.1:10079/p/0/proxy/https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
 🔞Adult IPTV (18+),http://cdn.adultiptv.net/bigass.m3u8
 🔞k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
