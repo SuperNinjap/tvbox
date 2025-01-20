@@ -18,9 +18,13 @@ CCTV5,http://127.0.0.1:35456/gaoma/cctv5.m3u8
 
 CCTV5+,http://127.0.0.1:35456/gaoma/cctv5p.m3u8
 
+CCTV6-4K,http://127.0.0.1:35456/ciptv/G_CCTV-6-AVS-4K264.m3u8
+
 CCTV6,http://127.0.0.1:35456/itv/1000000005000265006.m3u8?cdn=ystenlive
 
 CCTV7,http://127.0.0.1:35456/gaoma/cctv7.m3u8
+
+CCTV8-4K,http://127.0.0.1:35456/ciptv/G_CCTV-8-AVS-4K264.m3u8
 
 CCTV8,http://127.0.0.1:35456/gaoma/cctv8.m3u8
 
@@ -128,6 +132,19 @@ CCTV-17,http://127.0.0.1:35456/itv/1000000005000265015.m3u8?cdn=ystenlive
 重庆卫视,http://127.0.0.1:35456/itv/1000000001000001096.m3u8?cdn=ystenlive
 青海卫视,http://127.0.0.1:35456/itv/1000000002000013359.m3u8?cdn=ystenlive
 云南卫视,http://127.0.0.1:35456/itv/5000000011000031120.m3u8?cdn=bestzb
+三沙卫视,http://127.0.0.1:35456/itv/5000000011000288016.m3u8?cdn=bestzb
+厦门卫视,http://127.0.0.1:35456/itv/1000000005000266006.m3u8?cdn=ystenlive
+陕西卫视,http://127.0.0.1:35456/itv/5000000006000040017.m3u8?cdn=bestzb
+山西卫视,http://127.0.0.1:35456/itv/5000000006000040023.m3u8?cdn=bestzb
+宁夏卫视,http://127.0.0.1:35456/itv/1000000002000031451.m3u8?cdn=ystenlive
+西藏卫视,http://127.0.0.1:35456/itv/1000000002000015894.m3u8?cdn=ystenlive
+新疆卫视,http://127.0.0.1:35456/itv/5000000006000040018.m3u8?cdn=bestzb
+内蒙古卫视,http://127.0.0.1:35456/itv/1000000002000014080.m3u8?cdn=ystenlive
+延边卫视,http://127.0.0.1:35456/itv/1000000005000266008.m3u8?cdn=ystenlive
+兵团卫视,http://127.0.0.1:35456/itv/5000000006000040020.m3u8?cdn=bestzb
+康巴卫视,http://127.0.0.1:35456/itv/1000000005000266002.m3u8?cdn=ystenlive
+安多卫视,http://127.0.0.1:35456/itv/1000000005000266001.m3u8?cdn=ystenlive
+农林卫视,http://127.0.0.1:35456/itv/1000000005000266003.m3u8?cdn=ystenlive
 中国教育电视台-1,http://127.0.0.1:35456/itv/5000000002000002652.m3u8?cdn=bestzb
 中国教育电视台-4,http://127.0.0.1:35456/itv/5000000011000031126.m3u8?cdn=bestzb
 
