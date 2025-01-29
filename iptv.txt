@@ -1,30 +1,21 @@
 央视高码,#genre#
 
-CCTV1-4K,http://127.0.0.1:35456/ciptv/G_CCTV-1-AVS-4K264.m3u8
 
 CCTV1,http://127.0.0.1:35456/gaoma/cctv1.m3u8
 
 CCTV2,http://127.0.0.1:35456/gaoma/cctv2.m3u8
 
-CCTV3-4K,http://127.0.0.1:35456/ciptv/G_CCTV-3-AVS-4K264.m3u8
-
 CCTV3,http://127.0.0.1:35456/gaoma/cctv3.m3u8
 
 CCTV4,http://127.0.0.1:35456/gaoma/cctv4.m3u8
-
-CCTV5-4K,http://127.0.0.1:35456/ciptv/G_CCTV-5-AVS-4K264.m3u8
 
 CCTV5,http://127.0.0.1:35456/gaoma/cctv5.m3u8
 
 CCTV5+,http://127.0.0.1:35456/gaoma/cctv5p.m3u8
 
-CCTV6-4K,http://127.0.0.1:35456/ciptv/G_CCTV-6-AVS-4K264.m3u8
-
 CCTV6,http://127.0.0.1:35456/itv/1000000005000265006.m3u8?cdn=ystenlive
 
 CCTV7,http://127.0.0.1:35456/gaoma/cctv7.m3u8
-
-CCTV8-4K,http://127.0.0.1:35456/ciptv/G_CCTV-8-AVS-4K264.m3u8
 
 CCTV8,http://127.0.0.1:35456/gaoma/cctv8.m3u8
 
@@ -52,35 +43,6 @@ CCTV4K_10M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cc
 
 CCTV8K_36M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv8k_36m.m3u8
 
-CCTV-第一剧场,http://127.0.0.1:35456/ciptv/G_DIYIJC-CQ.m3u8
-
-CCTV-风云足球,http://127.0.0.1:35456/ciptv/G_FENGSHANGZQ-CQ.m3u8
-
-CCTV-世界地理,http://127.0.0.1:35456/ciptv/G_SHIJIEDL-CQ.m3u8
-
-CCTV-兵器科技,http://127.0.0.1:35456/ciptv/G_BINGQIKJ-CQ.m3u8
-
-CCTV-央视台球,http://127.0.0.1:35456/ciptv/G_TAIQIU-CQ.m3u8
-
-CCTV-央视高网,http://127.0.0.1:35456/ciptv/G_CCTV-GOLF-CQ.m3u8
-
-CCTV-风云音乐,http://127.0.0.1:35456/ciptv/G_FENGYUNYY-CQ.m3u8
-
-CCTV-风云剧场,http://127.0.0.1:35456/ciptv/G_FENGYUNJC-CQ.m3u8
-
-CCTV-怀旧剧场,http://127.0.0.1:35456/ciptv/G_HUAIJIUJC-CQ.m3u8
-
-CCTV-文化精品,http://127.0.0.1:35456/ciptv/G_CCTV-WENHUA-CQ.m3u8
-
-CCTV-女性时尚,http://127.0.0.1:35456/ciptv/G_NVXINGSS-CQ.m3u8
-
-CCTV-电视指南,http://127.0.0.1:35456/ciptv/G_DIANSHIZN-CQ.m3u8
-
-凤凰卫视中文台,http://127.0.0.1:35456/ciptv/HD-10000k-1080P-fhchinese5s.m3u8?pt=cntv
-
-凤凰卫视资讯台,http://127.0.0.1:35456/ciptv/HD-10000k-1080P-fhzixun5s.m3u8?pt=cntv
-
-凤凰卫视香港台,http://127.0.0.1:35456/ciptv/HD-10000k-1080P-fhhongkong5s.m3u8?pt=cntv
 
 央视回看,#genre#
 
@@ -507,6 +469,10 @@ Now Sports 642,https://live.hkdvb.com/hls/live/642.m3u8?token=660938530706219
 
 测试综合,#genre#
 
+
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
+南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
