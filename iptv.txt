@@ -474,9 +474,7 @@ Now Sports 642,https://live.hkdvb.com/hls/live/642.m3u8?token=660938530706219
 
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-
-红牛TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+红牛TV,http://127.0.0.1:10079/p/0/proxy/http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 澳门莲花 电影,https://cdn4.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
