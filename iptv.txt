@@ -117,9 +117,21 @@ SiTV-欢笑剧场-4K,http://127.0.0.1:35456/itv/5000000007000010001.m3u8?cdn=bes
 咪咕4K-1,http://127.0.0.1:35456/itv/3000000010000005180.m3u8?cdn=FifastbLive
 咪咕4K-2,http://127.0.0.1:35456/itv/3000000010000015686.m3u8?cdn=FifastbLive
 纯享-4K,http://127.0.0.1:35456/itv/1000000004000011651.m3u8?cdn=ystenlive
-晴彩篮球,http://127.0.0.1:35456/ciptv/miguaoyun01-AVS-4K01.m3u8?
 Fashion 4K,http://127.0.0.1:10079/p/0/proxy/https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Love Nature 4K,http://127.0.0.1:10079/p/0/proxy/https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+北京IPTV 4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+北京国际,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
+北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
+北京文艺,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
+北京体育休闲,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
+北京影视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
+北京生活,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
+北京财经,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
+北京IPTV 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+北京IPTV 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
+北京IPTV 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+北京IPTV 淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+北京IPTV 萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
 中国天气,http://127.0.0.1:35456/itv/5000000005000031974.m3u8?cdn=bestzb
 求索动物,http://127.0.0.1:35456/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索纪录,http://127.0.0.1:35456/itv/6000000002000032052.m3u8?cdn=wasusyt
@@ -467,6 +479,27 @@ Now Sports 642,https://live.hkdvb.com/hls/live/642.m3u8?token=660938530706219
 天映频道,https://live.hkdvb.com/hls/live/501.m3u8?token=660938530706219
 
 
+YouTube,#genre#
+
+凤凰资讯,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=HFib76ySpbU
+中天新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=vr3XyVCR4T0
+TVBS HD,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=o_-hSMgpAzs
+TVBS新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS NewS,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=m_dhMSvUCIc
+三立新闻,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=MV9mI0GChwo
+民視新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=ylYJSBUgaMA
+華視新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新闻台湾台,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇新闻财经台,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=WTRQiVWK1jY
+东森新闻,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=V1p33hqPrUk
+东森新闻财经,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=1I2iq41Akmo
+鏡新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=5n0y6b0Q25o
+公视新闻,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=quwqlazU-c8
+
+
 测试综合,#genre#
 
 
@@ -528,13 +561,11 @@ FASHION 4K,http://127.0.0.1:10079/p/0/proxy/https://fash2043.cloudycdn.services/
 
 FASHION 4K,http://127.0.0.1:10079/p/0/proxy/http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
-CLARITY,http://127.0.0.1:10079/p/0/proxy/https://d3thiix3tzn48u.cloudfront.net/playlist.m3u8
-
 LOUPE,http://127.0.0.1:10079/p/0/proxy/https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-TAIWAN PLUS,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+TAIWAN PLUS,http://127.0.0.1:10079/p/0/proxy/https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
-NHK WORLD JAPAN,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHK WORLD JAPAN,http://127.0.0.1:10079/p/0/proxy/https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 WildEarth,http://127.0.0.1:10079/p/0/proxy/https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
