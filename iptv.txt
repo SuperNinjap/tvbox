@@ -1,6 +1,5 @@
 央视高码,#genre#
 
-
 CCTV1,http://127.0.0.1:35456/gaoma/cctv1.m3u8
 
 CCTV2,http://127.0.0.1:35456/gaoma/cctv2.m3u8
@@ -13,7 +12,7 @@ CCTV5,http://127.0.0.1:35456/gaoma/cctv5.m3u8
 
 CCTV5+,http://127.0.0.1:35456/gaoma/cctv5p.m3u8
 
-CCTV6,http://127.0.0.1:35456/itv/1000000005000265006.m3u8?cdn=ystenlive
+CCTV6,http://www.lizhinas.top:1009/rtp/239.252.219.237:5140
 
 CCTV7,http://127.0.0.1:35456/gaoma/cctv7.m3u8
 
@@ -42,6 +41,9 @@ CCTV16_10M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cc
 CCTV4K_10M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv4k_10m.m3u8
 
 CCTV8K_36M,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv8k_36m.m3u8
+CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140
+CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
+CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
 CCTV风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140$白名单
 CCTV女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140$白名单
 CCTV兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140$白名单
@@ -58,80 +60,63 @@ CHC动作电影,http://www.lizhinas.top:1009/rtp/239.252.219.85:5140$白名单
 CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$白名单
 CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$白名单
 
-央视回看,#genre#
+卫视频道,#genre#
 
-CCTV-1,http://127.0.0.1:35456/itv/1000000005000265001.m3u8?cdn=ystenlive
-CCTV-2,http://127.0.0.1:35456/itv/1000000001000023315.m3u8?cdn=ystenlive
-CCTV-3,http://127.0.0.1:35456/itv/1000000005000265003.m3u8?cdn=ystenlive
-CCTV-4,http://127.0.0.1:35456/itv/1000000005000265004.m3u8?cdn=ystenlive
-CCTV-5,http://127.0.0.1:35456/itv/1000000005000265005.m3u8?cdn=ystenlive
-CCTV-5+,http://127.0.0.1:35456/itv/1000000005000265016.m3u8?cdn=ystenlive
-CCTV-6,http://127.0.0.1:35456/itv/1000000005000265006.m3u8?cdn=ystenlive
-CCTV-7,http://127.0.0.1:35456/itv/1000000005000265007.m3u8?cdn=ystenlive
-CCTV-8,http://127.0.0.1:35456/itv/1000000005000265008.m3u8?cdn=ystenlive
-CCTV-9,http://127.0.0.1:35456/itv/1000000005000265009.m3u8?cdn=ystenlive
-CCTV-10,http://127.0.0.1:35456/itv/1000000005000265010.m3u8?cdn=ystenlive
-CCTV-11,http://127.0.0.1:35456/itv/1000000005000265011.m3u8?cdn=ystenlive
-CCTV-12,http://127.0.0.1:35456/itv/1000000005000265012.m3u8?cdn=ystenlive
-CCTV-13,http://127.0.0.1:35456/itv/5000000011000031108.m3u8?cdn=bestzb
-CCTV-14,http://127.0.0.1:35456/itv/1000000005000265013.m3u8?cdn=ystenlive
-CCTV-15,http://127.0.0.1:35456/itv/1000000005000265014.m3u8?cdn=ystenlive
-CCTV-16,http://127.0.0.1:35456/itv/5000000008000023254.m3u8?cdn=bestzb
-CCTV-17,http://127.0.0.1:35456/itv/1000000005000265015.m3u8?cdn=ystenlive
+湖南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.201:5140
+浙江卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.210:5140
+北京卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.206:5140
+甘肃卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.140:5140
+海南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.178:5140
+广西卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.183:5140
+云南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.185:5140
+天津卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.61:5140
+湖北卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.208:5140
+黑龙江卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.211:5140
+深圳卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.212:5140
+山东卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.228:5140
+重庆卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.94:5140
+广东卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.213:5140
+江苏卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.214:5140
+东方卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.229:5140
+辽宁卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.62:5140
+东南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.82:5140
+安徽卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.83:5140
+四川卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.93:5140
+河北卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.154:5140
+吉林卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.188:5140
+贵州卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.190:5140
+河南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.189:5140
+西藏卫视,http://www.lizhinas.top:1009/rtp/239.252.219.106:5140
+宁夏卫视,http://www.lizhinas.top:1009/rtp/239.252.219.104:5140
+山西卫视,http://www.lizhinas.top:1009/rtp/239.252.219.27:5140
+青海卫视,http://www.lizhinas.top:1009/rtp/239.252.219.46:5140
+陕西卫视,http://www.lizhinas.top:1009/rtp/239.252.219.105:5140
+内蒙古卫视,http://www.lizhinas.top:1009/rtp/239.252.219.48:5140
+新疆卫视,http://www.lizhinas.top:1009/rtp/239.252.219.100:5140
+兵团卫视,http://www.lizhinas.top:1009/rtp/239.252.219.107:5140
+山东教育,http://www.lizhinas.top:1009/rtp/239.252.219.74:5140
+厦门卫视,http://www.lizhinas.top:1009/rtp/239.252.219.75:5140
+中国教育-1高清,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
+中国教育2频道,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
+中国教育4频道,http://www.lizhinas.top:1009/rtp/239.252.219.169:5140
 
+地方频道,#genre#
 
+江西都市高清,http://www.lizhinas.top:1009/rtp/239.252.220.238:5140
+经济生活高清,http://www.lizhinas.top:1009/rtp/239.252.219.173:5140
+影视旅游高清,http://www.lizhinas.top:1009/rtp/239.252.220.242:5140
+公共农业高清,http://www.lizhinas.top:1009/rtp/239.252.220.102:5140
+江西少儿高清,http://www.lizhinas.top:1009/rtp/239.252.219.113:5140
+新闻频道高清,http://www.lizhinas.top:1009/rtp/239.252.220.100:5140
+移动电视高清,http://www.lizhinas.top:1009/rtp/239.252.220.241:5140
+江西教育高清,http://www.lizhinas.top:1009/rtp/239.252.219.115:5140
+南昌新闻综合高清,http://www.lizhinas.top:1009/rtp/239.252.220.247:5140
+南昌都市高清,http://www.lizhinas.top:1009/rtp/239.252.220.248:5140
+南昌资讯高清,http://www.lizhinas.top:1009/rtp/239.252.220.249:5140
 
-卫视回看,#genre#
-
-湖南卫视,http://127.0.0.1:35456/itv/1000000005000265024.m3u8?cdn=ystenlive
-江苏卫视,http://127.0.0.1:35456/itv/1000000005000265030.m3u8?cdn=ystenlive
-浙江卫视,http://127.0.0.1:35456/itv/1000000005000265031.m3u8?cdn=ystenlive
-东南卫视,http://127.0.0.1:35456/itv/1000000005000265033.m3u8?cdn=ystenlive
-东方卫视,http://127.0.0.1:35456/itv/1000000005000265018.m3u8?cdn=ystenlive
-北京卫视,http://127.0.0.1:35456/itv/1000000005000265027.m3u8?cdn=ystenlive
-天津卫视,http://127.0.0.1:35456/itv/1000000005000265026.m3u8?cdn=ystenlive
-安徽卫视,http://127.0.0.1:35456/itv/1000000005000265025.m3u8?cdn=ystenlive
-山东卫视,http://127.0.0.1:35456/itv/1000000005000265019.m3u8?cdn=ystenlive
-广东卫视,http://127.0.0.1:35456/itv/1000000005000265034.m3u8?cdn=ystenlive
-江西卫视,http://127.0.0.1:35456/itv/1000000005000265032.m3u8?cdn=ystenlive
-深圳卫视,http://127.0.0.1:35456/itv/1000000005000265028.m3u8?cdn=ystenlive
-湖北卫视,http://127.0.0.1:35456/itv/1000000005000265023.m3u8?cdn=ystenlive
-辽宁卫视,http://127.0.0.1:35456/itv/1000000005000265022.m3u8?cdn=ystenlive
-重庆卫视,http://127.0.0.1:35456/itv/1000000005000265017.m3u8?cdn=ystenlive
-黑龙江卫视,http://127.0.0.1:35456/itv/1000000005000265029.m3u8?cdn=ystenlive
-河北卫视,http://127.0.0.1:35456/itv/5000000006000040016.m3u8?cdn=bestzb
-河南卫视,http://127.0.0.1:35456/itv/5000000011000031119.m3u8?cdn=bestzb
-四川卫视,http://127.0.0.1:35456/itv/5000000004000006119.m3u8?cdn=bestzb
-海南卫视,http://127.0.0.1:35456/itv/5000000004000006211.m3u8?cdn=bestzb
-广西卫视,http://127.0.0.1:35456/itv/5000000011000031118.m3u8?cdn=bestzb
-吉林卫视,http://127.0.0.1:35456/itv/5000000011000031117.m3u8?cdn=bestzb
-甘肃卫视,http://127.0.0.1:35456/itv/5000000011000031121.m3u8?cdn=bestzb
-贵州卫视,http://127.0.0.1:35456/itv/5000000004000025843.m3u8?cdn=bestzb
-青海卫视,http://127.0.0.1:35456/itv/1000000002000013359.m3u8?cdn=ystenlive
-云南卫视,http://127.0.0.1:35456/itv/1000000002000024694.m3u8?cdn=wasusyt
-三沙卫视,http://127.0.0.1:35456/itv/5000000011000288016.m3u8?cdn=bestzb
-厦门卫视,http://127.0.0.1:35456/itv/1000000005000266006.m3u8?cdn=ystenlive
-陕西卫视,http://127.0.0.1:35456/itv/5000000006000040017.m3u8?cdn=bestzb
-山西卫视,http://127.0.0.1:35456/itv/5000000006000040023.m3u8?cdn=bestzb
-宁夏卫视,http://127.0.0.1:35456/itv/1000000002000031451.m3u8?cdn=ystenlive
-西藏卫视,http://127.0.0.1:35456/itv/1000000002000015894.m3u8?cdn=ystenlive
-新疆卫视,http://127.0.0.1:35456/itv/1000000002000029441.m3u8?cdn=wasusyt
-内蒙古卫视,http://127.0.0.1:35456/itv/1000000002000014080.m3u8?cdn=ystenlive
-延边卫视,http://127.0.0.1:35456/itv/1000000005000266008.m3u8?cdn=ystenlive
-兵团卫视,http://127.0.0.1:35456/itv/5000000006000040020.m3u8?cdn=bestzb
-康巴卫视,http://127.0.0.1:35456/itv/1000000005000266002.m3u8?cdn=ystenlive
-安多卫视,http://127.0.0.1:35456/itv/1000000005000266001.m3u8?cdn=ystenlive
-农林卫视,http://127.0.0.1:35456/itv/1000000005000266003.m3u8?cdn=ystenlive
-中国教育电视台-1,http://127.0.0.1:35456/itv/5000000002000002652.m3u8?cdn=bestzb
-中国教育电视台-4,http://127.0.0.1:35456/itv/5000000011000031126.m3u8?cdn=bestzb
 
 数字回看,#genre#
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-SiTV-欢笑剧场-4K,http://127.0.0.1:35456/itv/5000000007000010001.m3u8?cdn=bestzb
-华数-4K,http://127.0.0.1:35456/itv/6000000003000004748.m3u8?cdn=wasusyt
-咪咕4K-1,http://127.0.0.1:35456/itv/3000000010000005180.m3u8?cdn=FifastbLive
-咪咕4K-2,http://127.0.0.1:35456/itv/3000000010000015686.m3u8?cdn=FifastbLive
-纯享-4K,http://127.0.0.1:35456/itv/1000000004000011651.m3u8?cdn=ystenlive
+
 Fashion 4K,http://127.0.0.1:10079/p/0/proxy/https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Love Nature 4K,http://127.0.0.1:10079/p/0/proxy/https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -146,88 +131,34 @@ Love Nature 4K,http://127.0.0.1:10079/p/0/proxy/https://d18dyiwu97wm6q.cloudfron
 北京IPTV 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京IPTV 淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京IPTV 萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
-中国天气,http://127.0.0.1:35456/itv/5000000005000031974.m3u8?cdn=bestzb
-求索动物,http://127.0.0.1:35456/itv/6000000002000010046.m3u8?cdn=wasusyt
-求索纪录,http://127.0.0.1:35456/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索科学,http://127.0.0.1:35456/itv/6000000002000032344.m3u8?cdn=wasusyt
-求索生活,http://127.0.0.1:35456/itv/6000000002000003382.m3u8?cdn=wasusyt
-纪实科教,http://127.0.0.1:35456/itv/1000000001000001910.m3u8?cdn=ystenlive
-东方影视,http://127.0.0.1:35456/itv/5000000010000032212.m3u8?cdn=bestzb
-新闻综合,http://127.0.0.1:35456/itv/5000000011000031110.m3u8?cdn=bestzb
-第一财经,http://127.0.0.1:35456/itv/5000000010000027146.m3u8?cdn=bestzb
-上海都市,http://127.0.0.1:35456/itv/5000000010000018926.m3u8?cdn=bestzb
-东方财经,http://127.0.0.1:35456/itv/5000000007000010003.m3u8?cdn=bestzb
-五星体育,http://127.0.0.1:35456/itv/5000000010000017540.m3u8?cdn=bestzb
-卡酷少儿,http://127.0.0.1:35456/itv/7851974109718180595.m3u8?cdn=bestzb
-哈哈炫动,http://127.0.0.1:35456/itv/5000000011000031123.m3u8?cdn=bestzb
-法治天地,http://127.0.0.1:35456/itv/2000000002000000014.m3u8?cdn=hnbblive
-快乐垂钓,http://127.0.0.1:35456/itv/5000000011000031206.m3u8?cdn=bestzb
-茶频道,http://127.0.0.1:35456/itv/5000000011000031209.m3u8?cdn=bestzb
-金鹰卡通,http://127.0.0.1:35456/itv/5000000006000040024.m3u8?cdn=bestzb
-金鹰纪实,http://127.0.0.1:35456/itv/5000000011000031203.m3u8?cdn=bestzb
-咪咕全民热练,http://127.0.0.1:35456/itv/3000000020000031315.m3u8?cdn=FifastbLive
-NewTV-精品综合,http://127.0.0.1:35456/itv/1000000004000019008.m3u8?cdn=ystenlive
-NewTV-精品大剧,http://127.0.0.1:35456/itv/1000000004000013968.m3u8?cdn=ystenlive
-NewTV-精品纪录,http://127.0.0.1:35456/itv/1000000004000013730.m3u8?cdn=ystenlive
-NewTV-精品体育,http://127.0.0.1:35456/itv/1000000004000014634.m3u8?cdn=ystenlive
-NewTV-精品萌宠,http://127.0.0.1:35456/itv/1000000006000032328.m3u8?cdn=ystenlive
-NewTV-爱情喜剧,http://127.0.0.1:35456/itv/2000000003000000010.m3u8?cdn=hnbblive
-NewTV-超级电视剧,http://127.0.0.1:35456/itv/1000000006000268003.m3u8?cdn=ystenlive
-NewTV-超级电影,http://127.0.0.1:35456/itv/1000000003000012426.m3u8?cdn=ystenlive
-NewTV-超级体育,http://127.0.0.1:35456/itv/1000000001000009601.m3u8?cdn=ystenlive
-NewTV-超级综艺,http://127.0.0.1:35456/itv/1000000006000268002.m3u8?cdn=ystenlive
-NewTV-潮妈辣婆,http://127.0.0.1:35456/itv/2000000003000000018.m3u8?cdn=hnbblive
-NewTV-东北热剧,http://127.0.0.1:35456/itv/1000000005000266013.m3u8?cdn=ystenlive
-NewTV-动作电影,http://127.0.0.1:35456/itv/1000000004000018653.m3u8?cdn=ystenlive
-NewTV-古装剧场,http://127.0.0.1:35456/itv/2000000003000000024.m3u8?cdn=hnbblive
-NewTV-欢乐剧场,http://127.0.0.1:35456/itv/1000000005000266012.m3u8?cdn=ystenlive
-NewTV-家庭剧场,http://127.0.0.1:35456/itv/1000000004000008284.m3u8?cdn=ystenlive
-NewTV-金牌综艺,http://127.0.0.1:35456/itv/1000000004000026167.m3u8?cdn=ystenlive
-NewTV-惊悚悬疑,http://127.0.0.1:35456/itv/1000000004000024282.m3u8?cdn=ystenlive
-NewTV-军旅剧场,http://127.0.0.1:35456/itv/2000000003000000014.m3u8?cdn=hnbblive
-NewTV-军事评论,http://127.0.0.1:35456/itv/2000000003000000022.m3u8?cdn=hnbblive
-NewTV-魅力潇湘,http://127.0.0.1:35456/itv/1000000001000006197.m3u8?cdn=ystenlive
-NewTV-明星大片,http://127.0.0.1:35456/itv/2000000003000000016.m3u8?cdn=hnbblive
-NewTV-农业致富,http://127.0.0.1:35456/itv/2000000003000000003.m3u8?cdn=hnbblive
-NewTV-武博世界,http://127.0.0.1:35456/itv/2000000003000000007.m3u8?cdn=hnbblive
-NewTV-炫舞未来,http://127.0.0.1:35456/itv/1000000001000000515.m3u8?cdn=ystenlive
-NewTV-怡伴健康,http://127.0.0.1:35456/itv/1000000005000266011.m3u8?cdn=ystenlive
-NewTV-中国功夫,http://127.0.0.1:35456/itv/2000000003000000009.m3u8?cdn=hnbblive
-NewTV-黑莓电影,http://127.0.0.1:35456/itv/1000000004000019624.m3u8?cdn=ystenlive
-NewTV-黑莓动画,http://127.0.0.1:35456/itv/1000000004000021734.m3u8?cdn=ystenlive
-NewTV-哒啵电竞,http://127.0.0.1:35456/itv/1000000006000032327.m3u8?cdn=ystenlive
-NewTV-哒啵赛事,http://127.0.0.1:35456/itv/1000000001000003775.m3u8?cdn=ystenlive
-SiTV-动漫秀场,http://127.0.0.1:35456/itv/5000000011000031113.m3u8?cdn=bestzb
-SiTV-都市剧场,http://127.0.0.1:35456/itv/5000000011000031111.m3u8?cdn=bestzb
-SiTV-法治天地,http://127.0.0.1:35456/itv/9001547084732463424.m3u8?cdn=bestzb
-SiTV-欢笑剧场,http://127.0.0.1:35456/itv/5000000002000009455.m3u8?cdn=bestzb
-SiTV-金色学堂,http://127.0.0.1:35456/itv/5000000010000026105.m3u8?cdn=bestzb
-SiTV-劲爆体育,http://127.0.0.1:35456/itv/5000000002000029972.m3u8?cdn=bestzb
-SiTV-乐游,http://127.0.0.1:35456/itv/5000000011000031112.m3u8?cdn=bestzb
-SiTV-魅力足球,http://127.0.0.1:35456/itv/5000000011000031207.m3u8?cdn=bestzb
-SiTV-七彩戏剧,http://127.0.0.1:35456/itv/5000000011000031116.m3u8?cdn=bestzb
-SiTV-生活时尚,http://127.0.0.1:35456/itv/5000000002000019634.m3u8?cdn=bestzb
-SiTV-游戏风云,http://127.0.0.1:35456/itv/5000000011000031114.m3u8?cdn=bestzb
-iHOT-爱电竞,http://127.0.0.1:35456/itv/6000000006000230630.m3u8?cdn=wasusyt
-iHOT-爱谍战,http://127.0.0.1:35456/itv/6000000006000070630.m3u8?cdn=wasusyt
-iHOT-爱动漫,http://127.0.0.1:35456/itv/6000000006000280630.m3u8?cdn=wasusyt
-iHOT-爱都市,http://127.0.0.1:35456/itv/6000000006000080630.m3u8?cdn=wasusyt
-iHOT-爱怀旧,http://127.0.0.1:35456/itv/6000000006000260630.m3u8?cdn=wasusyt
-iHOT-爱经典,http://127.0.0.1:35456/itv/6000000006000060630.m3u8?cdn=wasusyt
-iHOT-爱科幻,http://127.0.0.1:35456/itv/6000000006000020630.m3u8?cdn=wasusyt
-iHOT-爱科学,http://127.0.0.1:35456/itv/6000000006000160630.m3u8?cdn=wasusyt
-iHOT-爱浪漫,http://127.0.0.1:35456/itv/6000000006000040630.m3u8?cdn=wasusyt
-iHOT-爱历史,http://127.0.0.1:35456/itv/6000000006000150630.m3u8?cdn=wasusyt
-iHOT-爱旅行,http://127.0.0.1:35456/itv/6000000006000250630.m3u8?cdn=wasusyt
-iHOT-爱奇谈,http://127.0.0.1:35456/itv/6000000006000270630.m3u8?cdn=wasusyt
-iHOT-爱青春,http://127.0.0.1:35456/itv/6000000006000100630.m3u8?cdn=wasusyt
-iHOT-爱赛车,http://127.0.0.1:35456/itv/6000000006000240630.m3u8?cdn=wasusyt
-iHOT-爱体育,http://127.0.0.1:35456/itv/6000000006000290630.m3u8?cdn=wasusyt
-iHOT-爱玩具,http://127.0.0.1:35456/itv/6000000006000220630.m3u8?cdn=wasusyt
-iHOT-爱喜剧,http://127.0.0.1:35456/itv/6000000006000010630.m3u8?cdn=wasusyt
-iHOT-爱悬疑,http://127.0.0.1:35456/itv/6000000006000050630.m3u8?cdn=wasusyt
-iHOT-爱幼教,http://127.0.0.1:35456/itv/6000000006000180630.m3u8?cdn=wasusyt
-iHOT-爱院线,http://127.0.0.1:35456/itv/6000000006000030630.m3u8?cdn=wasusyt
+
+金鹰纪实高清,http://www.lizhinas.top:1009/rtp/239.252.220.155:5140
+茶频道高清,http://www.lizhinas.top:1009/rtp/239.252.220.160:5140
+快乐垂钓高清,http://www.lizhinas.top:1009/rtp/239.252.220.177:5140
+金鹰卡通,http://www.lizhinas.top:1009/rtp/239.252.219.69:5140
+梨园频道,http://www.lizhinas.top:1009/rtp/239.252.220.179:5140
+武术世界,http://www.lizhinas.top:1009/rtp/239.252.220.180:5140
+文物宝库,http://www.lizhinas.top:1009/rtp/239.252.220.158:5140
+中国天气,http://www.lizhinas.top:1009/rtp/239.252.219.143:5140
+爱电影,http://www.lizhinas.top:1009/rtp/239.252.220.142:5140
+经典电影,http://www.lizhinas.top:1009/rtp/239.252.220.139:5140
+爱大剧,http://www.lizhinas.top:1009/rtp/239.252.220.143:5140
+热播剧场,http://www.lizhinas.top:1009/rtp/239.252.220.138:5140
+少儿动画,http://www.lizhinas.top:1009/rtp/239.252.220.136:5140
+魅力时尚,http://www.lizhinas.top:1009/rtp/239.252.220.137:5140
+城市剧场,http://www.lizhinas.top:1009/rtp/239.252.220.75:5140
+军旅剧场,http://www.lizhinas.top:1009/rtp/239.252.220.76:5140
+古装剧场,http://www.lizhinas.top:1009/rtp/239.252.220.77:5140
+喜剧影院,http://www.lizhinas.top:1009/rtp/239.252.220.79:5140
+动作影院,http://www.lizhinas.top:1009/rtp/239.252.220.85:5140
+家庭影院,http://www.lizhinas.top:1009/rtp/239.252.220.86:5140
+武侠剧场,http://www.lizhinas.top:1009/rtp/239.252.220.88:5140
+精选,http://www.lizhinas.top:1009/rtp/239.252.219.161:5140
+动画,http://www.lizhinas.top:1009/rtp/239.252.219.165:5140
+光影,http://www.lizhinas.top:1009/rtp/239.252.220.200:5140
+星影,http://www.lizhinas.top:1009/rtp/239.252.220.210:5140
+南昌实验小学电视台高清,http://www.lizhinas.top:1009/rtp/239.252.220.12:5140
+
 
 网络综合,#genre#
 
@@ -393,76 +324,6 @@ iHOT-爱院线,http://127.0.0.1:35456/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 中华小当家「动漫」,https://live.iill.top/huya/11342413
 
-
-AKTV,#genre#
-
-28 AI 智慧賽馬,http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-TVBS-新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbs-1/AKTV.m3u8
-tvN,http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-千禧經典台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-明珠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-無線新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-翡翠综合台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-鳳凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-AXN,http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-Love Nature HD,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-无线新闻台(北美),http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-Animax(HK),http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-DW,http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-France 24,http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-KIX,http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-NHK World-Japan,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
-Nick Jr,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-亞洲新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-
-
-
-
-
-
-YouTube,#genre#
-
-凤凰资讯,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=HFib76ySpbU
-中天新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=vr3XyVCR4T0
-TVBS HD,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=o_-hSMgpAzs
-TVBS新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS NewS,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=m_dhMSvUCIc
-三立新闻,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=MV9mI0GChwo
-民視新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=ylYJSBUgaMA
-華視新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中視新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=TCnaIE_SAtM
-台視新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新闻台湾台,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=w87VGpgd90U
-寰宇新闻财经台,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=WTRQiVWK1jY
-东森新闻,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=V1p33hqPrUk
-东森新闻财经,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=1I2iq41Akmo
-鏡新聞,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=5n0y6b0Q25o
-公视新闻,http://127.0.0.1:10079/p/0/proxy/https://www.youtube.com/watch?v=quwqlazU-c8
 
 
 测试综合,#genre#
