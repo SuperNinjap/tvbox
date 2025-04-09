@@ -61,7 +61,8 @@ CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$白名单
 CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$白名单
 
 卫视频道,#genre#
-
+凤凰资讯台,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
+凤凰中文台,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
 湖南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.201:5140
 浙江卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.210:5140
 北京卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.206:5140
