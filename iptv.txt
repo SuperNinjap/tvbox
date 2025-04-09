@@ -61,8 +61,6 @@ CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$白名单
 CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$白名单
 
 卫视频道,#genre#
-凤凰资讯台,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
-凤凰中文台,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
 湖南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.201:5140
 浙江卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.210:5140
 北京卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.206:5140
@@ -78,6 +76,7 @@ CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$白名单
 重庆卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.94:5140
 广东卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.213:5140
 江苏卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.214:5140
+江西卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.63:5140
 东方卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.229:5140
 辽宁卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.62:5140
 东南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.220.82:5140
@@ -97,6 +96,10 @@ CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$白名单
 兵团卫视,http://www.lizhinas.top:1009/rtp/239.252.219.107:5140
 山东教育,http://www.lizhinas.top:1009/rtp/239.252.219.74:5140
 厦门卫视,http://www.lizhinas.top:1009/rtp/239.252.219.75:5140
+海峡卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.45:1025
+三沙卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.191:1025
+凤凰卫视资讯台,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
+凤凰卫视中文台,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
 中国教育-1高清,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
 中国教育2频道,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
 中国教育4频道,http://www.lizhinas.top:1009/rtp/239.252.219.169:5140
