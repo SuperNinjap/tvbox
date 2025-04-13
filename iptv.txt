@@ -61,6 +61,9 @@ CHC影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140$白名单
 CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140$白名单
 
 卫视频道,#genre#
+凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 湖南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.201:5140
 浙江卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.210:5140
 北京卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.206:5140

@@ -41,6 +41,9 @@ CCTV世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 CCTV央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 
 卫视频道,#genre#
+凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 湖南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.201:5140
 浙江卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.210:5140
 北京卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.206:5140
@@ -80,6 +83,8 @@ CCTV央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 三沙卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.191:1025
 凤凰卫视资讯台,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
 凤凰卫视中文台,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
+凤凰中文频道,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
+凤凰资讯频道,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 中国教育-1高清,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
 中国教育2频道,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
 中国教育4频道,http://www.lizhinas.top:1009/rtp/239.252.219.169:5140
