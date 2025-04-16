@@ -19,6 +19,7 @@ CCTV-12高清,http://www.lizhinas.top:1009/rtp/239.252.220.187:5140
 CCTV-13高清,http://www.lizhinas.top:1009/rtp/239.252.219.139:5140
 CCTV-14高清,http://www.lizhinas.top:1009/rtp/239.252.220.92:5140
 CCTV-15高清,http://www.lizhinas.top:1009/rtp/239.252.219.79:5140
+CCTV-16高清,http://127.0.0.1:35456/gaoma/cctv16.m3u8
 CCTV-16高清,http://www.lizhinas.top:1009/rtp/239.252.219.70:5140
 CCTV-17高清,http://www.lizhinas.top:1009/rtp/239.252.220.192:5140
 
@@ -51,7 +52,6 @@ RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 澳视卫星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
-香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 湖南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.201:5140
 浙江卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.210:5140
 北京卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.206:5140
