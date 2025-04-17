@@ -42,16 +42,6 @@ CCTV世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 CCTV央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 
 卫视频道,#genre#
-凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
 湖南卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.201:5140
 浙江卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.210:5140
 北京卫视高清,http://www.lizhinas.top:1009/rtp/239.252.219.206:5140
@@ -89,13 +79,59 @@ RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 厦门卫视,http://www.lizhinas.top:1009/rtp/239.252.219.75:5140
 海峡卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.45:1025
 三沙卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.191:1025
+中国教育-1高清,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
+中国教育2频道,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
+中国教育4频道,http://www.lizhinas.top:1009/rtp/239.252.219.169:5140
+
+港澳台频道,#genre#
+
+凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
+CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 凤凰卫视资讯台,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.47:1025
 凤凰卫视中文台,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.48:1025
 凤凰中文频道,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰资讯频道,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
-中国教育-1高清,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
-中国教育2频道,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
-中国教育4频道,http://www.lizhinas.top:1009/rtp/239.252.219.169:5140
+
 
 地方频道,#genre#
 
