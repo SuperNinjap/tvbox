@@ -274,12 +274,49 @@ HZTV-2,http://home.l-ht.cn:4000/rtp/239.77.1.233:5146
 阳江-2,http://home.l-ht.cn:4000/rtp/239.253.43.83:5146
 
 
+点播频道,#genre#
+
+
+IPTV1高清,http://home.l-ht.cn:4000/rtp/239.77.1.7:5146
+IPTV2高清,http://home.l-ht.cn:4000/rtp/239.77.1.8:5146
+IPTV3高清,http://home.l-ht.cn:4000/rtp/239.77.1.9:5146
+IPTV4高清,http://home.l-ht.cn:4000/rtp/239.77.1.10:5146
+爱综艺,http://home.l-ht.cn:4000/rtp/239.77.0.107:5146
+爱综艺,http://home.l-ht.cn:4000/rtp/239.77.1.78:5146
+爱体育,http://home.l-ht.cn:4000/rtp/239.77.0.108:5146
+爱体育,http://home.l-ht.cn:4000/rtp/239.77.1.77:5146
+爱体育高清,http://home.l-ht.cn:4000/rtp/239.77.0.176:5146
+爱体育高清,http://home.l-ht.cn:4000/rtp/239.77.1.116:5146
+爱电影,http://home.l-ht.cn:4000/rtp/239.77.0.103:5146
+爱电影,http://home.l-ht.cn:4000/rtp/239.77.1.138:5146
+爱大剧,http://home.l-ht.cn:4000/rtp/239.77.0.105:5146
+爱大剧,http://home.l-ht.cn:4000/rtp/239.77.1.82:5146
+IPTV谍战剧场,http://home.l-ht.cn:4000/rtp/239.77.0.99:5146
+IPTV谍战剧场,http://home.l-ht.cn:4000/rtp/239.77.1.83:5146
+IPTV相声小品,http://home.l-ht.cn:4000/rtp/239.77.0.100:5146
+IPTV相声小品,http://home.l-ht.cn:4000/rtp/239.77.1.84:5146
+IPTV野外,http://home.l-ht.cn:4000/rtp/239.77.0.101:5146
+IPTV野外,http://home.l-ht.cn:4000/rtp/239.77.1.85:5146
+IPTV法治,http://home.l-ht.cn:4000/rtp/239.77.0.102:5146
+IPTV法治,http://home.l-ht.cn:4000/rtp/239.77.1.86:5146
+魅力时尚,http://home.l-ht.cn:4000/rtp/239.77.0.110:5146
+IPTV魅力时尚,http://home.l-ht.cn:4000/rtp/239.77.1.88:5146
+经典电影,http://home.l-ht.cn:4000/rtp/239.77.0.104:5146
+IPTV经典电影,http://home.l-ht.cn:4000/rtp/239.77.1.89:5146
+热播剧场,http://home.l-ht.cn:4000/rtp/239.77.0.106:5146
+IPTV热播剧场,http://home.l-ht.cn:4000/rtp/239.77.1.90:5146
+少儿动画,http://home.l-ht.cn:4000/rtp/239.77.0.109:5146
+IPTV少儿动画,http://home.l-ht.cn:4000/rtp/239.77.1.91:5146
+IPTV收视指南,http://home.l-ht.cn:4000/rtp/239.77.0.111:5146
+
+
 4K频道,#genre#
 
 广东综艺 4K,http://home.l-ht.cn:4000/rtp/239.77.1.237:5146
 广东综艺(4k),http://home.l-ht.cn:4000/rtp/239.77.0.244:5146
 广东综艺(4k),http://home.l-ht.cn:4000/rtp/239.77.0.245:5146
 广东综艺 宽色域AVS2(4k) (AVS2),http://home.l-ht.cn:4000/rtp/239.77.0.252:5146
+南国都市4K,http://home.l-ht.cn:4000/rtp/239.253.43.99:5146
 CCTV-4K 4K,http://home.l-ht.cn:4000/rtp/239.77.0.194:5146
 CCTV-4K 4K50p,http://home.l-ht.cn:4000/rtp/239.77.0.174:5146
 CCTV-4K 4K,http://home.l-ht.cn:4000/rtp/239.77.1.180:5146
