@@ -41,7 +41,6 @@ CCTV14,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3
 CCTV14,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8
 CCTV15,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8
 CCTV15,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
-CCTV16_4K,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 CCTV16,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8
 CCTV16,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8
 CCTV16,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8
@@ -127,7 +126,7 @@ CCTV17,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3
 北京IPTV淘娱乐,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
 北京IPTV淘电影,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 北京IPTV萌宠TV,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
-北京大健康,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
+重温经典,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 中国教育1,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 中国交通,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8
 北京卡酷少儿,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
@@ -142,19 +141,19 @@ CCTV17,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3
 湖南金鹰纪实,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
 湖南快乐垂钓,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8
 湖南茶,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8
-NewTV中国功夫 2.,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
+NewTV中国功夫,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
 NewTV中国功夫,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8
-NewTV军事评论 2.,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+NewTV军事评论,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
 NewTV军事评论,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8
-NewTV军旅剧场 2.,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+NewTV军旅剧场,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
 NewTV军旅剧场,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8
 NewTV农业致富,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 NewTV农业致富,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8
-NewTV动作电影 2.,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
+NewTV动作电影,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
 NewTV动作电影,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8
-NewTV古装剧场 2.,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+NewTV古装剧场,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
 NewTV古装剧场,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8
-NewTV家庭剧场 2.,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+NewTV家庭剧场,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
 NewTV家庭剧场,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
 NewTV怡伴健康,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
 NewTV怡伴健康,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
@@ -204,6 +203,8 @@ NewTV金牌综艺,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/888
 
 咪咕频道,#genre#
 
+
+咪咕4K,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 咪咕全民热练,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8
 咪咕视频,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226890/1.m3u8
 咪咕视频,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
