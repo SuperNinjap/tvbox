@@ -79,7 +79,9 @@ CHC家庭影院,http://120.240.164.16:2380/hw1live.rxip.sc96655.com.huan.tv/live
 东方卫视4K,http://120.240.164.16:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8
 北京卫视4K,http://120.240.164.16:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8
 山东卫视4K,http://120.240.164.16:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
+广东卫视4K,http://120.226.23.11:2380/c3.cdn.hunancatv.com/live/gdws4K.m3u8
 广东卫视4K,http://120.240.164.16:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUANGDONG-4K/G_GUANGDONG-4K.m3u8
+深圳卫视4K,http://120.226.23.11:2380/c3.cdn.hunancatv.com/live/szws4K.m3u8
 深圳卫视4K,http://120.240.164.16:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHENZHEN-4K/G_SHENZHEN-4K.m3u8
 东南卫视,http://111.13.18.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8
 东南卫视,http://111.13.18.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8
@@ -156,8 +158,8 @@ CHC家庭影院,http://120.240.164.16:2380/hw1live.rxip.sc96655.com.huan.tv/live
 兵团卫视,http://120.240.164.16:2380/js-live-screenshot.gitv.tv/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8
 
 数字频道,#genre#
-
-重温经典,http://111.13.18.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
+重温经典1,http://120.226.23.11:2380/c3.cdn.hunancatv.com/live/hngj.m3u8
+重温经典2,http://111.13.18.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 北京IPTV4K超清,http://111.13.18.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 北京IPTV淘BABY,http://111.13.18.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
 北京IPTV淘剧场,http://111.13.18.2:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
